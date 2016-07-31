@@ -3,7 +3,7 @@
  - research temperature-sensitive physical systems
  - citation for degree / ton temperature number
  - identify amount of carbon released since industrialization and find source
- - get data of historical carbon levels
+ - **DONE** get data of historical carbon levels
  - research consequences of the "business-as-usual" pathway
  - research justification for the 1.5 degree warming increase
 
@@ -19,7 +19,8 @@
  - There are many drivers of global temperature, one primary lever is the concentration of "greenhouses" gasses in the atmosphere.  These gasses (including carbon, methane, [TODO: ADD OTHERS]) trap energy from the sun that would otherwise be radiated back into the atmosphere as ultraviolet light, which warms air in the atmosphere and raises the average atmospheric temperature.  Scientists studing this relationship estimate that every metric ton of CO2 leads to an approximately 0.0000000000015 increase in mean surface temperature [TODO: citation].
  - Since industrialization, the concentration of these gases has increased [TODO: ADD AMOUNT] (and the International Panel on Climate Change has confirmed that the release of greenhouse gases due to human activities is the primary driver of the recent temperature increase, with 95% certainty) [TODO: CITATION], leading to an estimated warming of __X__ degrees over [TODO: ADD TIME PERIOD].
 
-![Placeholder for chart of carbon levels over history]()
+![Historical Atospheric Carbon](../images/historical_carbon_800k.png)
+![Historical Atospheric Carbon](../images/historical_carbon_1k.png)
  
  - If carbon emissions grow at the same rate they have historically, we're on track to see a __X__ degree increase by the year 2100 
  - This would, in short, __be catestrophic__.
@@ -41,7 +42,7 @@
 ### Who is going to make those reductions?
 - Who is going to make those reducitons and how they'll be made are incredibly thorny political questions.  The question of how to divide the remaining the 500 gigatons raises significant questions of equity and historical fairness.  Developing countries argue that significant reductions would do disproportionate harm to them, and that their historical emmissions pale in comparison to that of developed countries.
 - Should the remaining 500 gigatons be distributed equally amongst countries?  Why not the the 1000 gigatons of total allowable emmissions?  If the latter, developed countries, like the US, UK, China, etc, will have already used most of their slice [TODO: CITATION].
-- Or should some different criterion be used, like equity or inertial?  Should ability to pay, development needs, or current emmissions levels be used to set targets.  A new proposal has been floated called ‘contraction and convergence’, in which overall global emissions contract to a safe level while all countries steadily converge on a common per capita emissions level.
+- Or should some different criterion be used, like equity or inertia?  Should ability to pay, development needs, or current emmissions levels be used to set targets.  A new proposal has been floated called ‘contraction and convergence’, in which overall global emissions contract to a safe level while all countries steadily converge on a common per capita emissions level.
  - Regardless of distribution by country, an ultimate common target has been generally upon: per-capita carbon limit.
  
 ### Resources
@@ -49,12 +50,10 @@
  - [Sharing What's Left of the Carbon Pie Just Got Easier](http://roadtoparis.info/2014/12/05/sharing-whats-left-carbon-emissions-pie-just-got-little-easier/)
 
 ## My Contribution
-- As one who believes in the importance of meeting these goals, and wants to be someone who is 'part of the solution' rather than the problem, this raises the question: "what do I need to do to be part of the solution?"
-
-- That raises three questions:
+- As one who believes deeply in the importance of meeting these goals, and wants to be someone who is "part of the solution" rather than the problem, this raises the question: "what do I need to do to be part of the solution?"  This question, unfortunately, is not an easy one and just raises others:
   - What should my carbon quota be?
-  - Where am I in relation to that goal?
-  - What actions can I take to get there?
+  - Where am I in currently relation to that goal?
+  - What options are available to reach that goal?
 
 ### What should my carbon quota be?
  - Competing approaches
@@ -86,7 +85,7 @@
  - Carbon capture and sequestration
 - Carbon Pricing
 
-
+### Places to Take Action
 - [Cool Earth](https://www.coolearth.org/)
 - [Cool Earth Giving What We Can Report](http://preview.givingwhatwecan.org/report/2CFCCfUSi4icqeS6emE046)
 - [Citizen's Climate Lobby GWWC Report](https://www.givingwhatwecan.org/charity/ccl/)
@@ -94,6 +93,14 @@
 
 
 ### References
+
+
+### General Resources
+ - [How much action does climate change warrant - Harvard EA](http://www.harvardea.org/blog/2015/9/12/how-much-attention-does-climate-change-warrant)
+ - [Sharing what's left of the pie just got easier](http://roadtoparis.info/2014/12/05/sharing-whats-left-carbon-emissions-pie-just-got-little-easier/)
+ - [Giving What We Can Climat Change Report](https://www.givingwhatwecan.org/cause/climate-change/)
+ - [Ice Cores and Climate Change](https://www.bas.ac.uk/data/our-data/publication/ice-cores-and-climate-change/)
+ - [NOAA Paleo Climatology Ice Cores Data Sets](https://www.ncdc.noaa.gov/cdo/f?p=517:1:0:::APP:PROXYDATASETLIST:7)
    
 
 
