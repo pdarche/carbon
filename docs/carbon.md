@@ -20,21 +20,38 @@ TODO:
 
 
 ## The Problem
- - The dyanimcs of many physical systems critical to human (and animal and enviornmental) well-being are strongly influenced by global temperature.  
-  - sea ice levels influence the jet stream, the movement of salt in the oceans
-  - rainfall levels across the planet - influencing crop yields, arable land
-  - disease transmission
-  - food supply
+The dyanimcs of many physical systems critical to human (and animal and enviornmental) well-being are [strongly influenced by global temperature](https://www.ipcc.ch/pdf/assessment-report/ar4/wg2/ar4_wg2_full_report.pdf).
+ 
+ - snow, ice, frozen ground (including permafronst)
+    - ocean salinity affecting currents controlling major systems, 
+    - sea levels coastal and mountain flooding
+    - reduction of meltwater available to communities dependent on it
+ - terrestrial biological systems
+  - earlier timing of spring events, leaf folding, bird migration, egg laying
+  - poleward and upward shifts in rages in plant and animal species, including those that transmit disease 
+ - marine and fresh water biological systems
+  - shifts in ranges and changes in algal, plankton and fish abundance in high-latitute ocans
+  - algal and zooplankton abundance in high-latitude and high altitude lakes
+  - range changes and earlier migrations of fish in rivers
+ - Crops and forests
+  - planting date
+  - forest fires and pests
+  - reduced crop yields in some areas
+ - Percipitation levels
+  - Desertification, drought, reduced planting season, longer dry season
   - storm intensity
-  - heat and habitable areas
-  - other extreme events
- - Though temperature is dependent on multiple factors [TODO: CITATION / FOOTNOTES], a primay driver of changes is the concentration of "greenhouses" gasses in the atmosphere.  These gasses (including carbon, methane, [TODO: ADD OTHERS]) trap energy from the sun that would otherwise be radiated back into the atmosphere as ultraviolet light, warming the air and raising average atmospheric temperature.  Scientists studing this relationship estimate that every metric ton of CO2 leads to an approximately 0.0000000000015 increase in mean surface temperature [TODO: citation].
- - Since industrialization, the concentration of these gases has increased __X__ degrees, leading to an estimated warming of __X__ degrees since that time.  The International Panel on Climate Change has confirmed that the release of greenhouse gases due to human activities is the primary driver of the recent temperature increase, with 95% certainty [TODO: CITATION].
+  - increased flooding
+ - Heat-related mortality, infections disease vetors, allergenic pollen 
+ - Ocean acidification
+  - coral bleaching and die-off
+
+Though temperature is dependent on multiple factors [TODO: CITATION / FOOTNOTES], a primay driver of changes is the concentration of "greenhouses" gasses in the atmosphere.  These gasses (including carbon, methane, [TODO: ADD OTHERS]) trap energy from the sun that would otherwise be radiated back into the atmosphere as ultraviolet light, warming the air and raising average atmospheric temperature.  Scientists studing this relationship estimate that every metric ton of CO2 leads to an approximately 0.0000000000015 increase in mean surface temperature [TODO: citation].
+ - Since industrialization, the concentration of these gases has increased __X__ percent, leading to an estimated __X__ degrees of warming since then.  The International Panel on Climate Change has confirmed that the release of greenhouse gases due to human activities is the primary driver of the recent temperature increase, with 95% certainty [TODO: CITATION].
 
 ![Historical Atospheric Carbon](../images/historical_carbon_800k.png)
 ![Historical Atospheric Carbon](../images/historical_carbon_1k.png)
  
- - If carbon emissions grow at the same rate they have historically, we're on track to see a __X__ degree increase by the year 2100, which would be potentially __catestrophic__.
+ - If carbon emissions grow at the same rate they have historically, we're on track to see a 3.5 degree increase by the year 2100, which would be potentially __catestrophic__.
   - extreme events
   - food shortages
   - heat waves
@@ -45,6 +62,7 @@ TODO:
 ### What goal should be set for carbon emissions?
  - Presumably, the ideal would be to have no warming [is this the case?].  Unfortunately, since carbon is cumulative and long-lasting (it stays in the atmosphere for approximately 1000 years) [TODO: CITATION], we'd need to average emissions of negative 5 billion tons per year for the next 84 (with zero emissions thereafter) to "undo" historical emissions and achieve that goal.
  - Since this isn't feasible, the question is to what extent can emissions be reduced without doing more social and economic harm than we would avert [CITATION: ECONOMIC POLICY MAKING AROUND CLIMATE CHANGE].
+ - Ultimately, the choice of the extent of reduction depends on the how the costs associated with various degrees of warming are evaluated - be they evaluated by economic cost, cost to human health, cost to plants and animals, to future generations, etc.
  - In December 2015, representatives from around the world [TODO: who were they, how many countries, which countries, etc.] met in Paris to set a global warming target and the steps that each would take to reach the emissions cuts that would be required.  The parties ultimately set a target of 1.5 degrees of warming by 2100 [TODO: add how they selected that number][TODO: CITATION].  Emissions beyond that number, they concluded, made the likelihood of catestrophic warming too great [TODO: enumerate reasons why].
 - 1.5 degree target means we have a global, all-time carbon "budget" of about about 1,000 gigatons or 1 trillion metric tons of carbon and carbon equivalent emissions.  Since we've already emitted 500 gigatons [TODO: CITATION], we're down to 500 gt to emit over the next 84 years.
 - Given current emisisons and emission growth rates, we're on track to exhaust our budget by __YEAR Y__, meaning we'd need a cumulative reduction in emissions by __X__ percent each year.
