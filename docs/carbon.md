@@ -7,7 +7,6 @@ TODO:
  - find some basic facts about the Paris COP
  - find references / citations for economic policy re: climate change (stern report?)
  - research justification for the 1.5 degree warming increase
- - find citation for total emissions to date
  - find relationship between ppm and temperature change
  - find dataset for total carbon emissions per year
  - find dataset for historical emissions by country per year
@@ -15,12 +14,13 @@ TODO:
  - get mean surface temperature dataset
  - research and outline the competing rationales for various carbon proposals
  - **DONE** get con ed green button power data
- - draft section on setting personal climate goal
+ - **DONE** draft section on setting personal climate goal
  - research outstanding personal carbon liabilities
- - add references
- - citations! (for degree / ton temperature number, others)
+ - add references and citations!
  
 
+## Intro
+[TODO: ADD]
 
 ## The Problem
 The dyanimcs of many physical systems critical to human (and animal and enviornmental) well-being are [strongly influenced by global temperature](https://www.ipcc.ch/pdf/assessment-report/ar4/wg2/ar4_wg2_full_report.pdf).
@@ -38,12 +38,15 @@ Since industrialization, however, the concentration of these gases has increased
 
 ![Historical Atospheric Carbon](../images/historical_carbon_1k.png)
  
-If carbon emissions grow at historic rates, scientists estaimate a roughly 3.5 degree temperature increase by the year 2100, which have __catestrophic__ implications for many countries, communities, and ecosystems throughout the world.  The IPCC estimates, for example, that such a level of warming would lead to (among many other things): extinction of up to or exceeding 40% of the worlds plant and animal species, widespread coral mortality, significant shifts in species' range, hundreds of millions of people exposed to increased water stress, a doubling in frequency of the strongest Atlantic cyclones, loss of about 30% of global coastal wetland, millions exposed to coastal flooding, significant increase in insect-born diseases due to expanded ranges, widespread crop failure, a 50% increase in extreme drought in the US and Souther Asia, a 20% rise in the likelihood of potentially lethal daytime tmperatures in the United States and China, as well as the risk of significant future increases in temperature due to the release of hundreds of gigatons of carbon and carbon equivalents currently stored in permafrost throughout Siberia and the poles [CITATION].
+If carbon emissions grow at historic rates, scientists estaimate a roughly 3.5 degree temperature increase by the year 2100, which would have __catestrophic__ implications for many countries, communities, and ecosystems throughout the world.  The IPCC estimates, for example, that such a level of warming would lead to (among many other things): extinction of up to or exceeding 40% of the worlds plant and animal species, widespread coral mortality, significant shifts in species' range, hundreds of millions of people exposed to increased water stress, a doubling in frequency of the strongest Atlantic cyclones, loss of about 30% of global coastal wetland, millions exposed to coastal flooding, significant increase in insect-born diseases due to expanded ranges, widespread crop failure, a 50% increase in extreme drought in the US and Souther Asia, a 20% rise in the likelihood of potentially lethal daytime tmperatures in the United States and China, as well as the risk of significant future increases in temperature due to the release of hundreds of gigatons of carbon and carbon equivalents currently stored in permafrost throughout Siberia and the poles [CITATION].
+
+test|second thing|
+---|:---:|
 
 
 ## Target Emission Levels
 ### What goal should be set for warming and carbon emissions?
- Given the stability and flourishing over the last 10,000 years, presumably the ideal would be to have no warming [is this the case?].  Unfortunately, as carbon is cumulative and long-lasting (it stays in the atmosphere for approximately 1000 years) [CITATION], we'd need to average emissions of negative 5 billion tons per year for the next 84 (with zero emissions thereafter) to "undo" historical emissions.
+ Given the stability and flourishing over the last 10,000 years, the presumed ideal would be to no warming.  Unfortunately, as carbon is cumulative and long-lasting (it stays in the atmosphere for approximately 1000 years) [CITATION], we'd need to average emissions of negative 5 billion tons per year for the next 84 (with zero emissions thereafter) to "undo" historical emissions.
 
 Though geoengineering holds out the promise of removal of carbon from the atmosphere, it's currently not feasible, so the question is to what extent can emissions be reduced without doing more social and economic harm than we would avert [CITATION: ECONOMIC POLICY MAKING AROUND CLIMATE CHANGE].  The choice of the extent of reduction depends on thehe how the consequences associated with various degrees of warming are evaluated - be they evaluated by economic cost, harm to human health, harm to ecosystems, to future generations, etc.
 
@@ -68,50 +71,54 @@ This question, unfortunately, is not an easy one and just raises others:
   - Where am I in currently relation to that goal?
   - What options are available to reach that goal?
 
-So what should my personal carbon footprint be?  The primary arguments against equity focus on the practical impediments to adopting steep reductions and on the burdens they would impose on the countries with the highest current emmissions.  Compelling as those arguments might be from an international treaty-making perspctive, they doesn't address the _truth_ of the proposition that we're each only entitled to an equal share of global carbon quota.  It may be the case that the difference between my personal quota and current lifestyle would require reductions that are (even very) difficult, but unlike a large democratic country, I'm a well-off individual person with significanta abilities to change lifestyle and adapt.
+### What should my carbon quota be?
+The primary arguments against equity focus on the practical impediments to adopting steep reductions and on the burdens they would impose on the countries with the highest current emmissions.  Compelling as those arguments might be from an international treaty-making perspctive, they doesn't address the _truth_ of the proposition that we're each only entitled to an equal share of global carbon quota.  It may be the case that the difference between my personal quota and current lifestyle would require reductions that are (even very) difficult, but unlike a large democratic country, I'm a well-off individual with significant abilities to change lifestyle and adapt (regardless of how unpleasant those changes might be).
 
 Dividing the quota up over the next 36 years, and then dividing that by the projected population at each year gives the following yearly quotas up to 2050.
 
 ![Personal Carbon Quota](../images/personal_carbon_quota.png)
 
-### Where am I in relation to that goal?
-If my goal is roughly 1000 kg per year, where am I currently in relation to that goal?  What is my current carbon responsibility?  Unfortunately, computing a personal carbon footprint is pretty difficult.  The areas of one's life and activities that generate carbon responsibility are numerous and divers.  Generally, they're bucketed into four broad aread:
+### Where am I in relation to that quota?
+Where am I currently in relation to that roughly 700kg per year goal?  What is my current carbon responsibility?  Unfortunately, computing an accurate personal carbon footprint is difficult and burdensome.  The areas of one's life and activities that generate carbon liabilities are numerous, diverse, and difficult to track.  Generally, they're bucketed into four broad aread:
 
  1. Transportation-related carbon, including plane trips, car trips, use of public transportation
  2. Housing-related carbon, from heating, cooling, & electricity
  3. So-called "embedded" carbon, or the carbon that's emitted in the process of producing and transporting goods we consume
- - Other carbon liabilities, like my share of the US Govenernment's carbon footprint.
+ - Other liabilities, like my share of the US Govenernment's carbon footprint.
 
-Luckily, technologies are facilitating the tracking of quotidian behaviors and the computation of the carbon footprints of these behaviors. Below are charts that used Moves data and Con Edision Green Button energy data along with carbon calcualtions from the [Brighter Planet API](http://impact.brighterplanet.com/documentation) to compute my personal carbon footprint for transportation and housing.
+Fortunately, technologies and new institutional data sources are facilitating the tracking of quotidian behaviors and new models are being used to compute the carbon footprints of these behaviors. Below are charts that use [Moves](https://www.moves-app.com/) and [Con Edision Green Button](http://www.greenbuttondata.org/) energy data along with carbon calcualtions from the [Brighter Planet API](http://impact.brighterplanet.com/documentation) to compute my personal carbon footprint for transportation and housing over the last two years.
 
 ![All time cumulative transportation carbon footprint](../images/cumulative_footprint_by_year.png)
 
-As can be seen in the abovechart, for the two years with full data, my footprint from transportation alone exceeded 12,000 kgms of carbon, meaning I was 1700 percent above my quota each year.
-
-### What can I do to get there
-It's pretty clear from my transpertation and housing carbon alone that I'm pretty far outside of my quota.  Another way of looking at is that if everyone in the world had a similar footprint, we'd likely see a devastating 9 degrees of warming.
+As the chart indicates, my carbon footprint is pretty high.  For each of the two years with full data, my footprint from transportation alone exceeded 13,000 kgs of carbon, meaning I was 1700% above my quota each year. Another way of looking at my overshoot is that if everyone in the world had a similar footprint, we'd likely see 9 degrees of warming, an amount that would likely spell the collapse of humanity. 
 
 ![Temperature Increase Per Ton with Targets](../images/temp_increase_with_targets.png)
 
-So what can I do to reduce my footprint?  The natural place is to reduce the amount of carbon I'm responsible for through behavior and lifestyle changes.  A big start would be reducing the number of flights I take per year.  Plane flights dominate all other modes of transportation and for me are responsible for 10 times as much carbon as the next highest mode, cars.
+[TODO: CHANGE STYLING, CENTER, AND REDUCE RANGE OF THIS CHART]
+
+### What can I do to get within my quota?
+So what can I do to reduce my footprint and get within the amount I'm entitled to?  The natural place is to reduce the amount of carbon I'm responsible for through behavior and lifestyle changes.  A big start would be reducing the number of flights I take per year.  Plane flights dominate all other modes of transportation and for me are responsible for 10 times as much carbon as the next highest mode, cars.
 
 ![Footprint Without Flights](../images/cumulative_footprint_by_year_wo_flights.png)
 
-I average about 8 flights a year, and with each flight's carbon averaging my entire quota, that's going to be hard for me to elminate.  Outside of reduction, my options are offsets and advocacy for political changes.  (Scientists and policy-makers also disucss technical solutions, like geoengineering and carbon capture and sequestration, but I can only lobby for those things, not do them myself).
+[TODO: ADD CARBON RANGE OF PREVIOUS CHART TO SHOW DIFFERENCE, CHANGE STYLING]
 
-Carbon offsets, like those offered by [Cool Earth](https://www.coolearth.org/) or [Carbon Fund](https://carbonfund.org/) work by supporting projects that reduced carbon emissions by some.  The include activities like reforestation (forests act as a carbon sink, reducing total atmospheric carbon), or investments in renewable energy projects.  
- 
- - advantages
- - challenges
- - most reputable sources / what it'd cost to [Cool Earth Giving What We Can Report](http://preview.givingwhatwecan.org/report/2CFCCfUSi4icqeS6emE046)
- - [New York Residential Green Energy](http://www.conedsolutions.com/GoGreen/Residential/NewYork_Green_Residential.aspx)
+[TODO: TRY OUT SIMPLE BAR CHART SHOWING THE DIFFERENT CATEGORIES]
 
-Another option is supporting the advocacy for national policies that would address climate change on a much larger scale.  Though riskiker, this approach has the potential to have much more impact than any individual contribution.  Organizations like the [Citizen's Climate Lobby GWWC Report](https://www.givingwhatwecan.org/charity/ccl/) could potentially 
+I average about 8 [CHECK THIS NUMBER] flights a year, and with each flight's carbon averaging my entire quota, that's going to be hard for me to elminate.  Outside of reduction, my options are offsets and advocacy for policy change.  (Scientists and policy-makers also disucss technical solutions, like geoengineering and carbon capture and sequestration, but I can only lobby for those things, not do them myself).
+
+Carbon offsets work by supporting projects that reduced carbon emissions.  They include activities like reforestation (forests act as a carbon sink, reducing total atmospheric carbon), investments in renewable energy projects (like wind or solar), or destruction of industrial pollutants.  They have the benefit of allowing individuals (and insititutions) the ability to reduce their carbon responsibilities without having to make drastic changes to lifestyle.
+
+They aren't without drawbacks though.  Accounting for exaclty how much carbon is being reduced by a given project is a challenge.  It can take years, for example, for a reforestation project to begin pulling carbon out of the air in significant quantities, and there's no gaurantee about how long those trees will stay there.  Offsets can also create perverse incentives for polluters.  A manufacturing company for example, generated 500 million dollards in offests for equipment to destroy industiral pollutants.
+
+[Giving What We Can](http://preview.givingwhatwecan.org/report/2CFCCfUSi4icqeS6emE046) has identified [Cool Earth](https://www.coolearth.org/) as a highly effective organization to donate to for carbon reduction and Charity Navigator has given the [Carbon Fund](https://carbonfund.org/) its [highest rating](https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=12315).
+
+Another option is supporting the advocacy for national policies that would address climate change on a much larger scale.  Though riskiker, this approach has the potential to have much more impact than any individual contribution.  Organizations like the [Citizen's Climate Lobby](https://citizensclimatelobby.org/) (also highly regarded by [Giving What We Can](https://www.givingwhatwecan.org/charity/ccl/)) advocate for a [carbon fee and dividend](http://citizensclimatelobby.org/carbon-fee-and-dividend/) policy to reduce greenhouse gas emission by 52% over 1990 levels.
 
 
 
 ### Aftwerward: Is this the best way for me to spend my time and money?
-Meeting my personal carbon quota is important, but it's not the only moral obligation I have.  Donating time and resources to other charities and causes, doing my civic dutiy in other respects, etc have competing claims on my time and resources.  
+Meeting my personal carbon quota is important, but it's not my only moral obligation.  Donating time and resources to other charities and causes, doing my civic dutiy in other respects, and so on have competing claims on my time and resources.  
 
  - [Determining the Cost-Effectiveness of Climate Change Interventions](https://www.givingwhatwecan.org/report/modelling-climate-change-cost-effectiveness/)
 
