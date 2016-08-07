@@ -28,20 +28,17 @@ The dyanimcs of many physical systems critical to human (and animal and enviornm
   
 Though dependent on multiple factors [CITATION / FOOTNOTES], a primay driver of temperature changes is the concentration of "greenhouses" gasses in the atmosphere.  These gasses (including carbon, methane, [TODO: ADD OTHERS]) trap energy from the sun that would otherwise be radiated back into the atmosphere as ifrared light, warming the air and raising average atmospheric temperature [CITATION].  Scientists studing this relationship estimate that every metric ton of CO2 leads to an approximately 0.0000000000015 increase in mean surface temperature [CITATION].
 
-![Temperature Increase and Atmospheric Carbon](../images/temp_increase_per_ton.png)
+![Temperature Increase and Atmospheric Carbon](../images/temp_increase_per_ton.png?rev=1)
 
 Over geological time the amount of atmospheric carbon has fluctuated in a roughly cyclical pattern (due to volcanic eruptions, etc), but has been relatviely stable arount 200 ppm for the last 10,000 years.  
 
-![Historical Atospheric Carbon](../images/historical_carbon_800k.png)
+![Historical Atospheric Carbon](../images/historical_carbon_800k.png?rev=1)
 
 Since industrialization, however, the concentration of these gases has increased __X__ percent, leading to an estimated __X__ degrees of warming to date.  The International Panel on Climate Change has confirmed that the release of greenhouse gases due to human activities is the primary driver of the recent temperature increase, with 95% certainty [CITATION].
 
-![Historical Atospheric Carbon](../images/historical_carbon_1k.png)
+![Historical Atospheric Carbon](../images/historical_carbon_1k.png?rev=1)
  
 If carbon emissions grow at historic rates, scientists estaimate a roughly 3.5 degree temperature increase by the year 2100, which would have __catestrophic__ implications for many countries, communities, and ecosystems throughout the world.  The IPCC estimates, for example, that such a level of warming would lead to (among many other things): extinction of up to or exceeding 40% of the worlds plant and animal species, widespread coral mortality, significant shifts in species' range, hundreds of millions of people exposed to increased water stress, a doubling in frequency of the strongest Atlantic cyclones, loss of about 30% of global coastal wetland, millions exposed to coastal flooding, significant increase in insect-born diseases due to expanded ranges, widespread crop failure, a 50% increase in extreme drought in the US and Souther Asia, a 20% rise in the likelihood of potentially lethal daytime tmperatures in the United States and China, as well as the risk of significant future increases in temperature due to the release of hundreds of gigatons of carbon and carbon equivalents currently stored in permafrost throughout Siberia and the poles [CITATION].
-
-test|second thing|
----|:---:|
 
 
 ## Target Emission Levels
@@ -76,7 +73,9 @@ The primary arguments against equity focus on the practical impediments to adopt
 
 Dividing the quota up over the next 36 years, and then dividing that by the projected population at each year gives the following yearly quotas up to 2050.
 
-![Personal Carbon Quota](../images/personal_carbon_quota.png)
+![Personal Carbon Quota](../images/personal_carbon_quota.png?rev=1)
+
+[TODO: ADD TEXT INDICATING WHICH TEMPERATURE LEVEL EACH IS ASSOCIATED WITH]
 
 ### Where am I in relation to that quota?
 Where am I currently in relation to that roughly 700kg per year goal?  What is my current carbon responsibility?  Unfortunately, computing an accurate personal carbon footprint is difficult and burdensome.  The areas of one's life and activities that generate carbon liabilities are numerous, diverse, and difficult to track.  Generally, they're bucketed into four broad aread:
@@ -92,18 +91,17 @@ Fortunately, technologies and new institutional data sources are facilitating th
 
 As the chart indicates, my carbon footprint is pretty high.  For each of the two years with full data, my footprint from transportation alone exceeded 13,000 kgs of carbon, meaning I was 1700% above my quota each year. Another way of looking at my overshoot is that if everyone in the world had a similar footprint, we'd likely see 9 degrees of warming, an amount that would likely spell the collapse of humanity. 
 
-![Temperature Increase Per Ton with Targets](../images/temp_increase_with_targets.png)
+![Temperature Increase Per Ton with Targets](../images/temp_increase_with_targets.png?rev=1)
 
-[TODO: CHANGE STYLING, CENTER, AND REDUCE RANGE OF THIS CHART]
+[TODO: FIX AXES RELATIONSHIP, THESE NUMBERS ARE WRONG. ADD TEXT FOR FOR CURRENT AND TARGET]
+
 
 ### What can I do to get within my quota?
 So what can I do to reduce my footprint and get within the amount I'm entitled to?  The natural place is to reduce the amount of carbon I'm responsible for through behavior and lifestyle changes.  A big start would be reducing the number of flights I take per year.  Plane flights dominate all other modes of transportation and for me are responsible for 10 times as much carbon as the next highest mode, cars.
 
-![Footprint Without Flights](../images/cumulative_footprint_by_year_wo_flights.png)
+![Footprint Without Flights](../images/cumulative_footprint_by_year_wo_flights.png?rev=2)
 
-[TODO: ADD CARBON RANGE OF PREVIOUS CHART TO SHOW DIFFERENCE, CHANGE STYLING]
-
-[TODO: TRY OUT SIMPLE BAR CHART SHOWING THE DIFFERENT CATEGORIES]
+![Total Footprint by Type](../images/total_footprint_by_type.png)
 
 I average about 8 [CHECK THIS NUMBER] flights a year, and with each flight's carbon averaging my entire quota, that's going to be hard for me to elminate.  Outside of reduction, my options are offsets and advocacy for policy change.  (Scientists and policy-makers also disucss technical solutions, like geoengineering and carbon capture and sequestration, but I can only lobby for those things, not do them myself).
 
@@ -113,8 +111,11 @@ They aren't without drawbacks though.  Accounting for exaclty how much carbon is
 
 [Giving What We Can](http://preview.givingwhatwecan.org/report/2CFCCfUSi4icqeS6emE046) has identified [Cool Earth](https://www.coolearth.org/) as a highly effective organization to donate to for carbon reduction and Charity Navigator has given the [Carbon Fund](https://carbonfund.org/) its [highest rating](https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=12315).
 
+[TODO: GIVE MORE DETAILS ABOUT MY DECISION-MAKING AROUND OFFSETS]
+
 Another option is supporting the advocacy for national policies that would address climate change on a much larger scale.  Though riskiker, this approach has the potential to have much more impact than any individual contribution.  Organizations like the [Citizen's Climate Lobby](https://citizensclimatelobby.org/) (also highly regarded by [Giving What We Can](https://www.givingwhatwecan.org/charity/ccl/)) advocate for a [carbon fee and dividend](http://citizensclimatelobby.org/carbon-fee-and-dividend/) policy to reduce greenhouse gas emission by 52% over 1990 levels.
 
+[TODO: ADD OTHER LOBBYING OPTIONS]
 
 
 ### Aftwerward: Is this the best way for me to spend my time and money?
