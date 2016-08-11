@@ -32,7 +32,7 @@ Though dependent on multiple factors [CITATION / FOOTNOTES], a primay driver of 
 
 Over geological time the amount of atmospheric carbon has fluctuated in a roughly cyclical pattern (due to volcanic eruptions, etc), but has been relatviely stable arount 200 ppm for the last 10,000 years.  
 
-![Historical Atospheric Carbon](../images/historical_carbon_800k.png?rev=1)
+![Historical Atospheric Carbon](../images/historical_carbon_800k.png?rev=2)
 
 Since industrialization, however, the concentration of these gases has increased __X__ percent, leading to an estimated __X__ degrees of warming to date.  The International Panel on Climate Change has confirmed that the release of greenhouse gases due to human activities is the primary driver of the recent temperature increase, with 95% certainty [CITATION].
 
@@ -73,7 +73,7 @@ The primary arguments against equity focus on the practical impediments to adopt
 
 Dividing the quota up over the next 36 years, and then dividing that by the projected population at each year gives the following yearly quotas up to 2050.
 
-![Personal Carbon Quota](../images/personal_carbon_quota.png?rev=1)
+![Personal Carbon Quota](../images/personal_carbon_quota.png?rev=2)
 
 [TODO: ADD TEXT INDICATING WHICH TEMPERATURE LEVEL EACH IS ASSOCIATED WITH]
 
@@ -87,11 +87,11 @@ Where am I currently in relation to that roughly 700kg per year goal?  What is m
 
 Fortunately, technologies and new institutional data sources are facilitating the tracking of quotidian behaviors and new models are being used to compute the carbon footprints of these behaviors. Below are charts that use [Moves](https://www.moves-app.com/) and [Con Edision Green Button](http://www.greenbuttondata.org/) energy data along with carbon calcualtions from the [Brighter Planet API](http://impact.brighterplanet.com/documentation) to compute my personal carbon footprint for transportation and housing over the last two years.
 
-![All time cumulative transportation carbon footprint](../images/cumulative_footprint_by_year.png)
+![All time cumulative transportation carbon footprint](../images/cumulative_footprint_by_year.png?rev=1)
 
 As the chart indicates, my carbon footprint is pretty high.  For each of the two years with full data, my footprint from transportation alone exceeded 13,000 kgs of carbon, meaning I was 1700% above my quota each year. Another way of looking at my overshoot is that if everyone in the world had a similar footprint, we'd likely see 9 degrees of warming, an amount that would likely spell the collapse of humanity. 
 
-![Temperature Increase Per Ton with Targets](../images/temp_increase_with_targets.png?rev=1)
+![Temperature Increase Per Ton with Targets](../images/temp_increase_with_targets.png?rev=3)
 
 [TODO: FIX AXES RELATIONSHIP, THESE NUMBERS ARE WRONG. ADD TEXT FOR FOR CURRENT AND TARGET]
 
@@ -99,15 +99,15 @@ As the chart indicates, my carbon footprint is pretty high.  For each of the two
 ### What can I do to get within my quota?
 So what can I do to reduce my footprint and get within the amount I'm entitled to?  The natural place is to reduce the amount of carbon I'm responsible for through behavior and lifestyle changes.  A big start would be reducing the number of flights I take per year.  Plane flights dominate all other modes of transportation and for me are responsible for 10 times as much carbon as the next highest mode, cars.
 
-![Footprint Without Flights](../images/cumulative_footprint_by_year_wo_flights.png?rev=2)
+![Footprint Without Flights](../images/cumulative_footprint_by_year_wo_flights.png?rev=4)
 
-![Total Footprint by Type](../images/total_footprint_by_type.png)
+![Total Footprint by Type](../images/total_footprint_by_type.png?rev=1)
 
 I average about 8 [CHECK THIS NUMBER] flights a year, and with each flight's carbon averaging my entire quota, that's going to be hard for me to elminate.  Outside of reduction, my options are offsets and advocacy for policy change.  (Scientists and policy-makers also disucss technical solutions, like geoengineering and carbon capture and sequestration, but I can only lobby for those things, not do them myself).
 
 Carbon offsets work by supporting projects that reduced carbon emissions.  They include activities like reforestation (forests act as a carbon sink, reducing total atmospheric carbon), investments in renewable energy projects (like wind or solar), or destruction of industrial pollutants.  They have the benefit of allowing individuals (and insititutions) the ability to reduce their carbon responsibilities without having to make drastic changes to lifestyle.
 
-They aren't without drawbacks though.  Accounting for exaclty how much carbon is being reduced by a given project is a challenge.  It can take years, for example, for a reforestation project to begin pulling carbon out of the air in significant quantities, and there's no gaurantee about how long those trees will stay there.  Offsets can also create perverse incentives for polluters.  A manufacturing company for example, generated 500 million dollards in offests for equipment to destroy industiral pollutants.
+They aren't without drawbacks though.  Accounting for exaclty how much carbon is being reduced by a given project is a challenge.  It can take years, for example, for a reforestation project to begin pulling carbon out of the air in significant quantities, and there's no gaurantee about how long those trees will stay there.  Offsets can also create perverse incentives for polluters.  A manufacturing company for example, generated 500 million dollars in offests for equipment to destroy industiral pollutants that only cost 5 million dollars to implement.  They later went on to produce more polluting factories just to get the offsets.
 
 [Giving What We Can](http://preview.givingwhatwecan.org/report/2CFCCfUSi4icqeS6emE046) has identified [Cool Earth](https://www.coolearth.org/) as a highly effective organization to donate to for carbon reduction and Charity Navigator has given the [Carbon Fund](https://carbonfund.org/) its [highest rating](https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=12315).
 
