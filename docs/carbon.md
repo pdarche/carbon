@@ -20,13 +20,17 @@ TODO:
  
 
 ## Intro
-[TODO: ADD]
+I know that climate change is a serious problem.  I know that my lifestyle makes it worse.  And I know I should change or cut out those behaviors that make my carbon footprint unjustifiably high. But I don't.  Besides buying wind power once during a stint in a past apartment, I haven't taken many other actions to meaningfully reduce my footprint.
+
+Reflecting on this made me wonder why.  Was it because the changes would be too hard or costly?  Was it because I didn't know what to change?  Though I didn't figure it all out, what became clear after a bit of thinking was that even though I "know" a lot (I've seen An Inconvenient Truth and read plenty of NY Times articles) I was still ignorant of basic facts relevant to changing my behavior.  
+
+In particular, I didn't know what the scientific consensus was for allowable warming, or how much carbon we could collective emit to stay under that target.  I didn't know what my personal carbon quota should be or where my current footprint was in relation to that goal.  And I didn't know the specific actions I could take to get within that quota.  What follows is a report of what I found attempting to answer those questions.
 
 ## The Problem
 The dyanimcs of many physical systems critical to human (and animal and enviornmental) well-being are [strongly influenced by global temperature](https://www.ipcc.ch/pdf/assessment-report/ar4/wg2/ar4_wg2_full_report.pdf).
   This includes (but is far from limited to): levels and melting rates of snow, ice (glaciers, polar ice caps, etc.), and frozen ground, affecting not only sea levels, but also glaicial runoff, ocean salinity, and habitat for many species; terrestrial biological systems such as the timing of spring related events (leaf unfolding, animal migration), the size and location of plant and animal habitat; marine and freshwater biological systems, like the ranges and volumes of algal, plankton and fish abundance, ranges and migration times of fish and other species; precipitation levels, storm formation and intensity, drought and desertification, flooding, plant productivity, forest fires, dry season length. [CITATION]
   
-Though dependent on multiple factors [CITATION / FOOTNOTES], a primay driver of temperature changes is the concentration of "greenhouses" gasses in the atmosphere.  These gasses (including carbon, methane, [TODO: ADD OTHERS]) trap energy from the sun that would otherwise be radiated back into the atmosphere as ifrared light, warming the air and raising average atmospheric temperature [CITATION].  Scientists studing this relationship estimate that every metric ton of CO2 leads to an approximately 0.0000000000015 increase in mean surface temperature [CITATION].
+The amount of "greenhouses" gasses in the atmosphere is a primary driver of temperature.  These gasses (including carbon, methane, [TODO: ADD OTHERS]) trap energy from the sun that would otherwise be radiated back into the atmosphere as ifrared light, warming the air and raising average atmospheric temperature [CITATION].  Scientists studing this relationship estimate that every metric ton of CO2 leads to an approximately 0.0000000000015 degree increase in mean surface temperature [CITATION].
 
 ![Temperature Increase and Atmospheric Carbon](../images/temp_increase_per_ton.png?rev=1)
 
