@@ -4,19 +4,23 @@ TODO:
  - **DONE** identify amount of carbon released since industrialization and find source
  - **DONE** get data of historical carbon levels
  - **DONE** research consequences of the "business-as-usual" pathway
+ - **DONE** get con ed green button power data
+ - **DONE** draft section on setting personal climate goal
+ - find conversion factor between ppm and Gt C02
+ - find dataset of cumulative carbon levels over time
+ - update all targets to 2050
+ - update all carbon measures to gigatons
  - find some basic facts about the Paris COP
  - find references / citations for economic policy re: climate change (stern report?)
- - research justification for the 1.5 degree warming increase
  - find relationship between ppm and temperature change
+ - research justification for the 1.5 degree warming increase
  - find dataset for total carbon emissions per year
  - find dataset for historical emissions by country per year
  - get detailed atmospheric carbon data from 1950 onward
  - get mean surface temperature dataset
  - research and outline the competing rationales for various carbon proposals
- - **DONE** get con ed green button power data
- - **DONE** draft section on setting personal climate goal
  - research outstanding personal carbon liabilities
- - add references and citations!
+ - add references and citations
  
 
 ## Intro
@@ -24,21 +28,23 @@ I know that climate change is a serious problem.  I know that my lifestyle makes
 
 Reflecting on this made me wonder why.  Was it because the changes would be too hard or costly?  Was it because I didn't know what to change?  Though I didn't figure it all out, what became clear after a bit of thinking was that even though I "know" a lot (I've seen An Inconvenient Truth and read plenty of NY Times articles) I was still ignorant of basic facts relevant to changing my behavior.  
 
-In particular, I didn't know what the scientific consensus was for allowable warming, or how much carbon we could collective emit to stay under that target.  I didn't know what my personal carbon quota should be or where my current footprint was in relation to that goal.  And I didn't know the specific actions I could take to get within that quota.  What follows is a report of what I found attempting to answer those questions.
+In particular, I didn't know what the scientific consensus was for allowable warming, or how much carbon we could collective emit to stay under that target.  I didn't know what my personal carbon quota should be or where my current footprint was in relation to that goal.  And I didn't know the best actions I to take to get within that quota.  What follows is a report of what I found attempting to answer those questions.
 
 ## The Problem
 The dyanimcs of many physical systems critical to human (and animal and enviornmental) well-being are [strongly influenced by global temperature](https://www.ipcc.ch/pdf/assessment-report/ar4/wg2/ar4_wg2_full_report.pdf).
-  This includes (but is far from limited to): levels and melting rates of snow, ice (glaciers, polar ice caps, etc.), and frozen ground, affecting not only sea levels, but also glaicial runoff, ocean salinity, and habitat for many species; terrestrial biological systems such as the timing of spring related events (leaf unfolding, animal migration), the size and location of plant and animal habitat; marine and freshwater biological systems, like the ranges and volumes of algal, plankton and fish abundance, ranges and migration times of fish and other species; precipitation levels, storm formation and intensity, drought and desertification, flooding, plant productivity, forest fires, dry season length. [CITATION]
+  This includes (but is far from limited to): levels and melting rates of snow, ice, and frozen ground, affecting not only sea levels but also glaicial runoff, ocean salinity, and habitat for many species; terrestrial biological systems such as the timing of spring related events (leaf unfolding, animal migration), the size and location of plant and animal habitat; marine and freshwater biological systems, like the ranges and volumes of algal, plankton and fish abundance, ranges and migration times of fish and other species; precipitation levels, storm formation and intensity, drought and desertification, flooding, plant productivity, forest fires, dry season length. [TODO: ADD CITATIONS AND LINKS]
   
-The amount of "greenhouses" gasses in the atmosphere is a primary driver of temperature.  These gasses (including carbon, methane, [TODO: ADD OTHERS]) trap energy from the sun that would otherwise be radiated back into the atmosphere as ifrared light, warming the air and raising average atmospheric temperature [CITATION].  Scientists studing this relationship estimate that every metric ton of CO2 leads to an approximately 0.0000000000015 degree increase in mean surface temperature [CITATION].
+The concentration of "greenhouses" gasses in the atmosphere is a primary driver of temperature.  These gasses (including carbon, methane, nitrous oxide, and ozone, and others) trap energy from the sun that would otherwise be radiated back into space as ifrared light, warming the air and raising average atmospheric temperature [CITATION].  Scientists studing this relationship estimate that every metric ton of CO2 leads to an approximately 0.0000000000015 degree increase in mean surface temperature [CITATION].
 
 ![Temperature Increase and Atmospheric Carbon](../images/temp_increase_per_ton.png?rev=1)
 
-Over geological time the amount of atmospheric carbon has fluctuated in a roughly cyclical pattern (due to volcanic eruptions, etc), but has been relatviely stable arount 200 ppm for the last 10,000 years.  
+Over geological time the amount of atmospheric carbon has fluctuated (due to events like volcanic eruptions, the expansion and contraction of forests, etc), but has stayed between 180 and 300 ppm.  
 
 ![Historical Atospheric Carbon](../images/historical_carbon_800k.png?rev=2)
 
-Since industrialization, however, the concentration of these gases has increased __X__ percent, leading to an estimated __X__ degrees of warming to date.  The International Panel on Climate Change has confirmed that the release of greenhouse gases due to human activities is the primary driver of the recent temperature increase, with 95% certainty [CITATION].
+[TODO: CONVERT THIS TO GIGATONS AND UPDATE THE X AXIS TO GREGORIAN YEAR RATHER THAN YEARS FROM 1950]
+
+Since industrialization, however, the concentration of these gases has increased 29%, leading to an estimated 0.8 degrees of warming since the start of the 20 centruy[2].  The International Panel on Climate Change has confirmed that the release of greenhouse gases due to human activities is the primary driver of the recent temperature increase, with 95% certainty [CITATION].
 
 ![Historical Atospheric Carbon](../images/historical_carbon_1k.png?rev=1)
  
@@ -129,7 +135,8 @@ Meeting my personal carbon quota is important, but it's not my only moral obliga
 
 
 ### References
-- Schaefer, Kevin et al. "The impact of the permafrost carbon feedback on global climate." Environmental Research Letters 9.8 (2014): 085003
+1. Schaefer, Kevin et al. "The impact of the permafrost carbon feedback on global climate." Environmental Research Letters 9.8 (2014): 085003
+2. "Chapter Climate Change 2014 Synthesis Report … - IPCC." 2015. 12 Jan. 2016 https://www.ipcc.ch/pdf/assessment-report/ar5/syr/AR5_SYR_FINAL_SPM.pdf 
 
 ### General Resources
  - [How much action does climate change warrant - Harvard EA](http://www.harvardea.org/blog/2015/9/12/how-much-attention-does-climate-change-warrant)
@@ -140,6 +147,9 @@ Meeting my personal carbon quota is important, but it's not my only moral obliga
  - [Effective Altruism Is Exploring Climate Change Action, and You Can Be Part of It](http://effective-altruism.com/ea/wk/effective_altruism_is_exploring_climate_change/)
  -  [The Trillion-ton Cap](http://e360.yale.edu/feature/the_trillion-ton_cap_allocating_the_worlds_carbon_emissions/2703/)
  - [Sharing What's Left of the Carbon Pie Just Got Easier](http://roadtoparis.info/2014/12/05/sharing-whats-left-carbon-emissions-pie-just-got-little-easier/)
+
+ ### Notes
+  - [1ppm C02 = 7.76GtC02](https://onlineconversion.vbulletin.net/forum/main-forums/convert-and-calculate/11072-convert-gtco2-to-ppm-rise-in-atmosphere)
    
 
 
