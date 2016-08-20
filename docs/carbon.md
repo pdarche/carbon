@@ -1,28 +1,3 @@
-TODO:
-
- - **DONE** research & draft temperature-sensitive physical systems
- - **DONE** identify amount of carbon released since industrialization and find source
- - **DONE** get data of historical carbon levels
- - **DONE** research consequences of the "business-as-usual" pathway
- - **DONE** get con ed green button power data
- - **DONE** draft section on setting personal climate goal
- - **DONE**  Find US government carbon footprint (the MIT energy class should have it)
- - **DONE** find conversion factor between ppm and Gt C02
- - **DONE** find dataset of cumulative carbon levels over time
- - **DONE** update all targets to 2050
- - **DONE** update all carbon measures to gigatons
- - **DONE** find some basic facts about the Paris COP
- - find references / citations for economic policy re: climate change (stern report?)
- - research justification for the 1.5 degree warming increase
- - find dataset for total carbon emissions per year
- - find dataset for historical emissions by country per year
- - get detailed atmospheric carbon data from 1950 onward
- - get mean surface temperature dataset
- - research and outline the competing rationales for various carbon proposals
- - research outstanding personal carbon liabilities
- - add references and citations
- 
-
 ## Intro
 I know that climate change is a serious problem.  I know that my lifestyle makes it worse.  And I know I should change those behaviors that make my carbon footprint unjustifiably high. But I don't.  Besides buying wind power once during a stint in a past apartment, I haven't taken many other actions to meaningfully reduce my carbon liabilities.
 
@@ -30,7 +5,7 @@ Reflecting on this made me wonder why.  Was it because the changes would be too 
 
 I didn't know, for example, what the consensus was for allowable warming, or how much carbon we could collectively emit to stay under that target.  I didn't know what my personal carbon quota should be or where my current footprint was in relation to it.  And I didn't know the best actions to take to get within my quota.  What follows is a report of what I found attempting to answer those questions.
 
-## The Problem
+## Part 1: The Problem
 First, a bit of background to motivate that first sentence.
 
 [Global atmospheric temperature affects _many_ physical systems critical to human (and animal and enviornmental) well-being](https://www.ipcc.ch/pdf/assessment-report/ar4/wg2/ar4_wg2_full_report.pdf).  This includes: levels and melting rates of snow, ice, and frozen ground, affecting not only sea levels but also glacial runoff, ocean salinity, and habitat for many species; terrestrial biological systems such as the timing of spring related events (leaf unfolding, animal migration), the size and location of plant and animal habitat; marine and freshwater biological systems, like the ranges and volumes of algal, plankton and fish abundance, ranges and migration times of fish and other species; precipitation levels, storm formation and intensity, drought and desertification, flooding, plant productivity, forest fires, dry season length and many more. [TODO: ADD CITATIONS AND LINKS]
@@ -55,10 +30,10 @@ If carbon emissions grow at historic rates, scientists estaimate a roughly 3.6 d
   The IPCC estimates, for example, that such a level of warming would lead to (among many other things): extinction of up to or exceeding 40% of the worlds plant and animal species, widespread coral mortality, significant shifts in species' range, hundreds of millions of people exposed to increased water stress, a doubling in frequency of the strongest Atlantic cyclones, loss of about 30% of global coastal wetland, millions exposed to coastal flooding, significant increase in insect-born diseases due to expanded ranges, widespread crop failure, a 50% increase in extreme drought in the US and Souther Asia, a 20% rise in the likelihood of potentially lethal daytime tmperatures in the United States and China, as well as the risk of significant future increases in temperature due to the release of hundreds of gigatons of carbon and carbon equivalents currently stored in permafrost throughout Siberia and the poles [CITATION].
 
 
-## Target Emissions and Warming
+## Part 2: Target Emissions and Warming
 ### What goal should be set for warming and carbon emissions?
 
-If the overwhelming consensus is that 3.6 degrees is an intollerable level of warming, what's what level can we tolerate?  In December 2015, representatives from 196 countries met in Paris for the UN Conference on Climate Change to answer that question and offer commitments to the emissions reductions necessary to achieve cap warming at that level.  The agreement ultimately included a goal of keeping warming "well below" 2 degrees C inluded a target of 1.5 degrees of warming by 2100 with a 50% chance of success [TODO: CITATION], requiring reducing emissions to zero net increase in carbon by 2050.
+If the overwhelming consensus is that 3.6 degrees is an intollerable level of warming, what level can we tolerate?  In December 2015, representatives from 196 countries met in Paris for the UN Conference on Climate Change to get consensus on that question and offer commitments to the emissions reductions necessary to cap warming at that level (with reasonable confidence).  The agreement ultimately included a goal of keeping warming "well below" 2 degrees C inluded a target of 1.5 degrees of warming by 2100 with a 50% chance of success [TODO: CITATION], requiring reducing emissions to zero net increase in carbon by 2050.
 
 The scientific community, however, already had an answer to that question: 1.5 degrees C above pre-industrial temperature.  Above 1.5 degrees  climate impacts, like heat extremes, crop yield reductions in torpical regions, subtropical water scarcity, widespread bleaching of coral reefs, and sea-rise of up to 1 meter go from being "somewhat likely" to being "very likely".  "The additional 0.5 ◦C increase in global-mean temperature marks the difference between
 events at the upper limit of present-day natural variability and a new climate regime, particularly in tropical regions."  
@@ -67,8 +42,18 @@ A 1.5 degree target means we have a global, all-time carbon "budget" of about ab
 
 ![Historical and Projected Emission](../images/historical_and_projected_emissions.png)
 
+## Part 3: How are we going to get there?
+### Options for addressing climate change
+Given that we're on track to blow through 1000 gigaton overal buget sometime in the next 15 years, the name of the game doin the following two things as agressively as possible: reducing the amount of new carbon we're putting into the atmosphere and increase the amount we're taking out.
+ 
+ - __Reductions in energy demand from carbon-based sources__ (Increase energy efficiency in cars, aircraft, home applicances, etc; Reduction in energy demand (reducing flights, etc., Carbon taxes)
+ - __Accelerating the transition to renewable energy__ (Increase the use of renewables)
+ - __Stopping deforestation__
+ - __Geoengineering__ (carbon capture and storage)
+
+
 ### Who is going to make those reductions?
-How to divide up the remaining carbon (that is, how to distribute the responsibilities for redcution) is an incredibly difficult political question that raise significant issues of fairness, history, need, and ability to contributes.  
+How to divide up the remaining carbon (that is, how to distribute the responsibilities for redcution) is an incredibly difficult political question that raise significant issues of fairness, history, need, and ability to contributes.
 
 Developing countries have argued that division rules (and accompanying reductions) insensitive to their development needs would unduly harm their abilities to improve the lives of their citizens.  Why, they arue, should their people be deprived of basic improvements in well-being so that otherwise perfectly well-off westerners can indulge their high-consumption lifestyles?  Developed countries have for the majority of their histories developed without restriction on emissions.  Expecting developing countries to develop under harsh restrictions constitutes a double standard.  Developed countries should take responsibility for their high-carbon paths to development and take on the majority of reductions.
 
@@ -79,7 +64,7 @@ Developed countries on the other hand cite practical considerations for adopting
 With the "bottom up", approach the focus shifts from internaltional agreements on individual country quotas, to consistency about local behaviors - i.e. "if others acted in accordance with a country's proposed share of the quota, would the outcome be acceptable?"
 
 
-## My Contribution
+## Part 4: My Contribution
 So how does this all apply to me?  Well, climate change is an archetypal collective action problem, one that emerges out of the behavior of governments, yes, but also corporations (and other organizations) and also individual people as well.  What makes them so difficult is that _no_ individual actor, government, company, or individual contributes enough be responsible for the problem.  Yes, governments themselves are responsible for significant emissions, but most of the proposals for addressing climate change at that level are about the things governments are going to force those at lower levels (comapnies and people) to do.  But there doesn't seem to be anything in principle that means behavior change should only happen at the governmental level.  I don't see why I shouldn't apply the same "what would the world be like" rule to myself and my own life and behavior.  So what should my proposed personal carbon quota be, and would the world be like if others adopted that policy?
 
 
@@ -162,6 +147,8 @@ Meeting my personal carbon quota is important, but it's not my only moral obliga
  -  [The Trillion-ton Cap](http://e360.yale.edu/feature/the_trillion-ton_cap_allocating_the_worlds_carbon_emissions/2703/)
  - [Sharing What's Left of the Carbon Pie Just Got Easier](http://roadtoparis.info/2014/12/05/sharing-whats-left-carbon-emissions-pie-just-got-little-easier/)
  - [NOAA Global Surface Temperature Anomolies](http://www.ncdc.noaa.gov/monitoring-references/faq/anomalies.php)
+ - [Scientists discuss the 1.5C limit to global temperature rise](https://www.carbonbrief.org/scientists-discuss-the-1-5c-limit-to-global-temperature-rise)
+ - [CO2 emissions by country 1970-2013](http://edgar.jrc.ec.europa.eu/overview.php?v=CO2ts1990-2013)
 
  ### Notes
   - [1ppm C02 = 7.76GtC02](https://onlineconversion.vbulletin.net/forum/main-forums/convert-and-calculate/11072-convert-gtco2-to-ppm-rise-in-atmosphere)
