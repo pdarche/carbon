@@ -33,9 +33,9 @@ I didn't know, for example, what the consensus was for allowable warming, or how
 ## The Problem
 First, a bit of background to motivate that first sentence.
 
-[Global atmospheric temperature affects _many_ physical systems critical to human (and animal and enviornmental) well-being](https://www.ipcc.ch/pdf/assessment-report/ar4/wg2/ar4_wg2_full_report.pdf).  This includes: levels and melting rates of snow, ice, and frozen ground, affecting not only sea levels but also glaicial runoff, ocean salinity, and habitat for many species; terrestrial biological systems such as the timing of spring related events (leaf unfolding, animal migration), the size and location of plant and animal habitat; marine and freshwater biological systems, like the ranges and volumes of algal, plankton and fish abundance, ranges and migration times of fish and other species; precipitation levels, storm formation and intensity, drought and desertification, flooding, plant productivity, forest fires, dry season length and many more. [TODO: ADD CITATIONS AND LINKS]
+[Global atmospheric temperature affects _many_ physical systems critical to human (and animal and enviornmental) well-being](https://www.ipcc.ch/pdf/assessment-report/ar4/wg2/ar4_wg2_full_report.pdf).  This includes: levels and melting rates of snow, ice, and frozen ground, affecting not only sea levels but also glacial runoff, ocean salinity, and habitat for many species; terrestrial biological systems such as the timing of spring related events (leaf unfolding, animal migration), the size and location of plant and animal habitat; marine and freshwater biological systems, like the ranges and volumes of algal, plankton and fish abundance, ranges and migration times of fish and other species; precipitation levels, storm formation and intensity, drought and desertification, flooding, plant productivity, forest fires, dry season length and many more. [TODO: ADD CITATIONS AND LINKS]
   
-The concentration of atmospheric "greenhouses" gasses is a primary driver of temperature change.  These gasses (primarily carbon dioxide, but also methane, nitrous oxide, and ozone, and others) trap energy from the sun that would otherwise be radiated back into space as infrared light, warming the air and raising average atmospheric temperature -- when talking about warming, scientists usually average air temperatre at surface level, which is what I'll use from here on).  Scientists studing this relationship estimate that every 1,000 kilograms -- or metric ton -- of CO2 leads to an approximately 0.0000000000015 degree increase in temperature [TODO: CITATION].
+The concentration of atmospheric "greenhouses" gasses is a primary driver of temperature change.  These gasses (primarily carbon dioxide, but also methane, nitrous oxide, and ozone, and others) trap energy from the sun that would otherwise be radiated back into space as infrared light, warming the air and raising average atmospheric temperature (when talking about warming, scientists usually average air temperatre at surface level, which is what I'll use from here on).  Scientists studing this relationship estimate that every 1,000 kilograms, or metric ton, of CO2 leads to an approximately 0.0000000000015 degree increase in temperature [TODO: CITATION].  This might not seem like very much, and in some respects it's not, but the important thing to take away is that there's a straightforward and well-understood relationship between the amount of carbon in the atmosphere and the global temperature and well-understood relationships between global temperature and critical physical systems. 
 
 ![Temperature Increase and Atmospheric Carbon](../images/temp_increase_per_ton.png?rev=2)
 
@@ -55,19 +55,15 @@ If carbon emissions grow at historic rates, scientists estaimate a roughly 3.6 d
   The IPCC estimates, for example, that such a level of warming would lead to (among many other things): extinction of up to or exceeding 40% of the worlds plant and animal species, widespread coral mortality, significant shifts in species' range, hundreds of millions of people exposed to increased water stress, a doubling in frequency of the strongest Atlantic cyclones, loss of about 30% of global coastal wetland, millions exposed to coastal flooding, significant increase in insect-born diseases due to expanded ranges, widespread crop failure, a 50% increase in extreme drought in the US and Souther Asia, a 20% rise in the likelihood of potentially lethal daytime tmperatures in the United States and China, as well as the risk of significant future increases in temperature due to the release of hundreds of gigatons of carbon and carbon equivalents currently stored in permafrost throughout Siberia and the poles [CITATION].
 
 
-## Target Emission Levels
+## Target Emissions and Warming
 ### What goal should be set for warming and carbon emissions?
- Given the stability and flourishing over the last 10,000 years, the presumed ideal would be to no warming.  Unfortunately, as carbon is cumulative and long-lasting (it stays in the atmosphere for approximately 1000 years) [CITATION], we'd need to average emissions of negative 5 billion tons per year for the next 34 (with zero emissions thereafter) to "undo" historical emissions.
 
-Though geoengineering holds out the promise of removal of carbon from the atmosphere it isn't currently feasible, so the question is to what extent can emissions be reduced without doing more social and economic harm than we would avert [CITATION: ECONOMIC POLICY MAKING AROUND CLIMATE CHANGE].
+If the overwhelming consensus is that 3.6 degrees is an intollerable level of warming, what's what level can we tolerate?  In December 2015, representatives from 196 countries met in Paris for the UN Conference on Climate Change to answer that question and offer commitments to the emissions reductions necessary to achieve cap warming at that level.  The agreement ultimately included a goal of keeping warming "well below" 2 degrees C inluded a target of 1.5 degrees of warming by 2100 with a 50% chance of success [TODO: CITATION], requiring reducing emissions to zero net increase in carbon by 2050.
 
-[TODO: EDIT AND SLIM THESE PARAGRAPHS DOWN]
+The scientific community, however, already had an answer to that question: 1.5 degrees C above pre-industrial temperature.  Above 1.5 degrees  climate impacts, like heat extremes, crop yield reductions in torpical regions, subtropical water scarcity, widespread bleaching of coral reefs, and sea-rise of up to 1 meter go from being "somewhat likely" to being "very likely".  "The additional 0.5 ◦C increase in global-mean temperature marks the difference between
+events at the upper limit of present-day natural variability and a new climate regime, particularly in tropical regions."  
 
-In December 2015, representatives from 196 countries met in Paris for the UN Conference on Climate Change to set a warming target and offer commitments to the emissions reductions necessary to achieve that goal.  The agreement ultimately included a goal of keeping warming "well below" 2 degrees C inluded a target of 1.5 degrees of warming by 2100 with a 50% chance of success [TODO: CITATION], requiring reducing emissions to zero net increase in carbon by 2050.
-
-[TODO: enumerate reasons why].
-
-A 1.5 degree target means we have a global, all-time carbon "budget" of about about 1,000 gigatons or 1 trillion metric tons of anthropogenic carbon and carbon equivalent emissions (man-made emissions on top of naturally occuring carbon).  To date, we've released nearly 500 gigatons [TODO: CITATION], meaning we have approximately 500 gt to emit over the next 34 years.  Given current emisisons and emission growth rates, we're on track to exhaust our budget by __YEAR Y__, meaning we'd need a cumulative reduction in emissions by __X__ percent each year.
+A 1.5 degree target means we have a global, all-time carbon "budget" of about about 1,000 gigatons or 1 trillion metric tons of anthropogenic carbon and carbon equivalent emissions (man-made emissions on top of naturally occuring carbon).  To date, we've released nearly 500 gigatons [TODO: CITATION], meaning we have approximately 500 gt to emit over the next 34 years.  Given current emisisons and emission growth rates, we're on track to exhaust our budget by 2020.
 
 ![Historical and Projected Emission](../images/historical_and_projected_emissions.png)
 
@@ -84,9 +80,8 @@ With the "bottom up", approach the focus shifts from internaltional agreements o
 
 
 ## My Contribution
-So how does this all apply to me?  Well, climate change is an archetypal collective action problem, one that emerges out of the behavior of governments, yes, but also corporations (and other organizations) and also individual people as well.  But there doesn't seem to be anything in principle that means behavior change should only happen at the governmental level.  I don't see why I shouldn't apply the same "what would the world be like" rule to myself and my own life and behavior.  So what should my proposed personal carbon quota be, and would the world be like if others adopted that policy?
+So how does this all apply to me?  Well, climate change is an archetypal collective action problem, one that emerges out of the behavior of governments, yes, but also corporations (and other organizations) and also individual people as well.  What makes them so difficult is that _no_ individual actor, government, company, or individual contributes enough be responsible for the problem.  Yes, governments themselves are responsible for significant emissions, but most of the proposals for addressing climate change at that level are about the things governments are going to force those at lower levels (comapnies and people) to do.  But there doesn't seem to be anything in principle that means behavior change should only happen at the governmental level.  I don't see why I shouldn't apply the same "what would the world be like" rule to myself and my own life and behavior.  So what should my proposed personal carbon quota be, and would the world be like if others adopted that policy?
 
-[TODO: ADD A COMPOENENT OF WANTING TO BE PART OF THE SOLUTION]
 
 ### What should my carbon quota be?
 The primary arguments against equity focus on the practical impediments to adopting steep reductions and on the burdens they would impose on the countries with the highest current emmissions.  Compelling as those arguments might be from an international treaty-making perspctive, they doesn't address the _truth_ of the proposition that we're each only entitled to an equal share of global carbon quota.  It may be the case that the difference between my personal quota and current lifestyle would require reductions that are (even very) difficult, but unlike a large democratic country, I'm a well-off individual with significant abilities to change lifestyle and adapt (regardless of how unpleasant those changes might be).
@@ -117,14 +112,13 @@ Fortunately, technologies and new institutional data sources are facilitating th
 
 As the above chart indicates, my carbon footprint is pretty high.  For each of the two years with full data, my footprint from transportation alone exceeded 13,000 kgs of carbon, meaning I was 650% above my quota each year.  Going back to the principle of consistent behavior, if everyone in the world had a similar footprint we'd likely see closet to 6 degrees of warming, an amount that could imperil humanity itself. 
 
-![Temperature Increase Per Ton with Targets](../images/temp_increase_with_targets.png?rev=3)
+![Temperature Increase Per Ton with Targets](../images/temp_increase_with_targets.png?rev=4)
 
 
 ### What can I do to get within my quota?
 So what can I do to reduce my footprint and get within the amount I'm entitled to?  The natural place is to reduce the amount of carbon I'm responsible for through behavior and lifestyle changes.  A big start would be reducing the number of flights I take per year.  Plane flights dominate all other modes of transportation and for me are responsible for 10 times as much carbon as the next highest mode, cars.
 
-![Footprint Without Flights](../images/cumulative_footprint_by_year_wo_flights.png?rev=4)
-
+![Footprint Without Flights](../images/cumulative_footprint_by_year_wo_flights.png?rev=5)
 
 I average about 8 [CHECK THIS NUMBER] flights a year, and with each flight's carbon averaging my entire quota, that's going to be hard for me to elminate.  That said, even marginal reductions would have a signficant impact on my behavior
 
