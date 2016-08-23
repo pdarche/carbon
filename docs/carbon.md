@@ -49,14 +49,18 @@ A 1.5 degree target means we have a collective, all-time carbon "budget" of abou
 ![Historical and Projected Emission](../images/historical_and_projected_emissions.png)
 
 ## Part 3: How are we going to get there?
-### Options for addressing climate change
-Given that we're on track to exhuast our buget so quickly, the name of the game is doin the following as agressively as possible: __reducing the amount of new carbon we put into the atmosphere__ and __increasing the amount we take out__.
+ - We need to reduce the amount of carbon output by __X__ perecent per year
 
-Reductions in emissions will come reducing demand for energy from cabon-based sources, which means either reducing the overall amount of energy demanded or increasing the proportion of energy non-carbon emitting sources (beyond the growth of carbon-prodcing sources).  Unfortunately, aside the periods of significant recession, global energy demand has steadily increased year-over-year and will likely continue to do so.  
+### Options for addressing climate change
+Given that we're on track to exhuast our buget so quickly, the name of the game is doin the following as agressively as possible: __reducing the amount of new carbon we put into the atmosphere__ and __increasing the amount we take out__.  Since 2010 Bill Gates has been using the following useful formula for exploring how we can reduce emissions in the amount necessary 
+
+$$ CO_2 = Population * Services / person * Energy/service * CO_2/unit $$
+
+Reductions in emissions will come from reducing demand for energy from cabon-based sources, which means either reducing the overall amount of energy demanded or increasing the proportion of energy non-carbon emitting sources (beyond the growth of carbon-prodcing sources).  Unfortunately, aside the periods of significant recession, global energy demand has steadily increased year-over-year and will likely continue to do so.  
 
 ![Historical and Projected Emission](../images/global_energy_deman.png)
 
-That said, there is significant room for efficiency improvements.  In 2012 Lawrence Livermore Labs estimated that roughly 60% of the energy generated in the United States was [wasted](https://flowcharts.llnl.gov/content/assets/images/energy/us/Energy_US_2015.png) meaning that there is significant room for reducing emissions without sacrificing economic output.  Moreover, many of the items we use every day, from applicances to airplane engines, to windows operate highly inefficiently.  Increasing the efficiency of these itmes is another way to reduce demand without reducing output.
+That said, there is significant room for efficiency improvements.  In 2012 Lawrence Livermore Labs estimated that roughly 60% of the energy generated in the United States was [wasted](https://flowcharts.llnl.gov/content/assets/images/energy/us/Energy_US_2015.png) meaning that there is significant room for reducing emissions without sacrificing economic output.  Moreover, many of the items we use every day, from applicances to airplane engines, to windows operate highly inefficiently.  Increasing the efficiency of these itmes is another way to reduce demand without reducing output.  [TOD: ADD MORE FACTS ABOUT POTENTIAL FOR EFFICIENCY GAINS]
 
 The alternative to reductions is accelerating the shift to carbon-free energy.  One side of that shift is making carbon-based energy more expensive.  Carbon taxes or credits are the prime policy option here.  By setting an overall cap on emissions and then charging for carbon emitted beyond that level emitters are financially incentivized to reduce their overall levels.  The [European Union's Emissons Trading System](http://ec.europa.eu/clima/policies/ets/index_en.htm) is the largest example of such a system.  Though very important, such systems are difficult to implement as they reqluire all of the parties within a large geographical region (many states within a country or countries) to buy into the system for them to work, and they mean pure cost for all of the constituents within those regions, making them politically difficult to implement.  
 
