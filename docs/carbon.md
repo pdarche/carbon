@@ -54,7 +54,15 @@ A 1.5 degree target means we have a collective, all-time carbon "budget" of abou
 ### Options for addressing climate change
 Given that we're on track to exhuast our buget so quickly, the name of the game is doin the following as agressively as possible: __reducing the amount of new carbon we put into the atmosphere__ and __increasing the amount we take out__.  Since 2010 Bill Gates has been using the following useful formula for exploring how we can reduce emissions in the amount necessary 
 
-$$ CO_2 = Population * Services / person * Energy/service * CO_2/unit $$
+$$ CO_2 = Population * Services / person * Energy/service * CO_2/unit\ of\ service $$
+
+ - population is going up
+ - services per person are going up - reductions in demand
+ - energy per service is going down - efficiency
+ - carbon per unit of service delivered - has to go to close to zero
+  - renewables (solar and wind)
+  - nuclear
+  - carbon cature and storage
 
 Reductions in emissions will come from reducing demand for energy from cabon-based sources, which means either reducing the overall amount of energy demanded or increasing the proportion of energy non-carbon emitting sources (beyond the growth of carbon-prodcing sources).  Unfortunately, aside the periods of significant recession, global energy demand has steadily increased year-over-year and will likely continue to do so.  
 
@@ -84,6 +92,10 @@ With the "bottom up", approach the focus shifts from internaltional agreements o
 
 
 ## Part 4: Where do I fit in?
+ - Reductions and offsets (cutting back on highly emitting behaviors and offesting those you can't cut)
+ - Consumption choices (incentivizing renewable and disincentivizing non)
+ - Advocacy and voting (supporting lobbying efforts and voting)
+ 
 So where do I fit in?  Well, climate change is an archetypal collective action problem, one that emerges out of the behavior of governments, yes, but also corporations (and other organizations) and also individual people as well.  What makes them so difficult is that _no_ individual actor, government, company, or individual contributes enough be responsible for the problem.  Yes, governments themselves are responsible for significant emissions, but most of the proposals for addressing climate change at that level are about the things governments are going to force those at lower levels (comapnies and people) to do.  But there doesn't seem to be anything in principle that means behavior change should only happen at the governmental level.  I don't see why I shouldn't apply the same "what would the world be like" rule to myself and my own life and behavior.  So what should my proposed personal carbon quota be, and would the world be like if others adopted that policy?
 
 
