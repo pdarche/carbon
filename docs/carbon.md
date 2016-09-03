@@ -10,11 +10,13 @@ First, a bit of background to motivate things.
 
 [Global atmospheric temperature affects _many_ physical systems critical to human (and animal and enviornmental) well-being](https://www.ipcc.ch/pdf/assessment-report/ar4/wg2/ar4_wg2_full_report.pdf).  This includes: levels and melting rates of snow, ice, and frozen ground, affecting not only sea levels but also glacial runoff, ocean salinity, and habitat for many species; terrestrial biological systems such as the timing of spring related events (leaf unfolding, animal migration), the size and location of plant and animal habitat; marine and freshwater biological systems, like the ranges and volumes of algal, plankton and fish abundance, ranges and migration times of fish and other species; precipitation levels, storm formation and intensity, drought and desertification, flooding, plant productivity, forest fires, dry season length and many more. [TODO: ADD CITATIONS AND LINKS]
 
-The concentration of atmospheric "greenhouses" gasses is a primary driver of temperature change.  These gasses (primarily carbon dioxide, but also methane, nitrous oxide, and ozone, and others) trap energy from the sun that would otherwise be radiated back into space as infrared light, warming the air and raising average atmospheric temperature (when talking about warming, scientists use mean surface air temperatre, which is what I'll use from here on).  Scientists studing this relationship estimate that every 1,000 kilograms, or metric ton, of CO2 leads to an approximately 0.0000000000015 degree increase in temperature [TODO: CITATION].  This might not seem like very much, and in some respects it's not, but the important thing to take away is that there's a straightforward and well-understood relationship between the amount of carbon in the atmosphere and the global temperature and well-understood relationships between global temperature and critical physical systems. 
+The concentration of atmospheric "greenhouses" gasses is a primary driver of temperature change.  These gasses (primarily carbon dioxide, but also methane, nitrous oxide, and ozone, and others) trap energy from the sun that would otherwise be radiated back into space as infrared light, warming the air and raising average atmospheric temperature (when talking about warming, scientists use average air temperature at surface level, which is what I'll use from here on).  Scientists studing this relationship estimate that every 1,000 kilograms, or metric ton, of CO2 leads to an approximately 0.0000000000015 degree increase in temperature [TODO: CITATION].
 
 ![Temperature Increase and Atmospheric Carbon](../images/temp_increase_per_ton.png?rev=2)
 
-Over geological time the amount of atmospheric carbon has fluctuated (due to events like volcanic eruptions, the expansion and contraction of forests, etc), but within the last 800,000 years has stayed between about 400 and 600 gigatons.
+This might not seem like very much, and in some respects it's not, but the important thing to take away is that there's a straightforward and well-understood relationship between the amount of carbon in the atmosphere and the global temperature and well-understood relationships between global temperature and critical physical systems.
+
+Over geological time the amount of atmospheric carbon has fluctuated (due volcanic eruptions, the expansion and contraction of forests, and similar events), but within the last 800,000 years has stayed between about 400 and 600 gigatons. [todo: change back to ppm]
 
 ![Historical Atospheric Carbon](../images/historical_carbon_800k.png?rev=4)
 
@@ -23,7 +25,7 @@ Since industrialization, however, the concentration of these gases has increased
 
 ![Historical Atospheric Carbon](../images/historical_carbon_1k.png?rev=1)
  
-If carbon emissions grow at historic rates, scientists estaimate a roughly 3.6 degree temperature increase by the year 2100, which would have catestrophic implications for many countries, communities, and ecosystems throughout the world.
+If carbon emissions grow at historic rates, scientists estaimate a roughly 3.6 degree temperature increase by the year 2100, which would have catestrophic implications for many communities and ecosystems throughout the world.
 
 ![Temperature Difference from Avg](../images/temp_diff_from_avg_1880.png)
 
@@ -35,7 +37,7 @@ If carbon emissions grow at historic rates, scientists estaimate a roughly 3.6 d
 
 If the overwhelming consensus is that 3.6 degrees is an intollerable level of warming, what level can we tolerate?  In December 2015, representatives from 196 countries met in Paris for the UN Conference on Climate Change to come to a consensus around that and offer commitments to the emissions reductions necessary to cap warming at that level (with reasonable confidence).  The agreement reached ultimately included a goal of keeping warming "well below" 2 degrees C inluded a target of 1.5 degrees of warming by 2100 with a 50% chance of success [TODO: CITATION].
 
-The scientific community, however, already had an answer to that question: 1.5 degrees C above pre-industrial temperature.  Above 1.5 degrees  climate impacts, like heat extremes, crop yield reductions in torpical regions, subtropical water scarcity, widespread bleaching of coral reefs, and sea-rise of up to 1 meter go from being "somewhat likely" to being "very likely".  "The additional 0.5 ◦C increase in global-mean temperature marks the difference between
+Why 1.5 degrees?  Above 1.5 degrees  climate impacts, like heat extremes, crop yield reductions in tropical regions, subtropical water scarcity, widespread bleaching of coral reefs, and sea-rise of up to 1 meter go from being "somewhat likely" to being "very likely".  "The additional 0.5 ◦C increase in global-mean temperature marks the difference between
 events at the upper limit of present-day natural variability and a new climate regime, particularly in tropical regions." [CITATION]
 
 ADD FACTS ABOUT IMPACTS OF 1.5 DEGREES
@@ -44,51 +46,36 @@ ADD FACTS ABOUT IMPACTS OF 1.5 DEGREES
 
 [1.5 degree key facts](http://climateanalytics.org/hot-topics/1-5c-key-facts.html)
 
-A 1.5 degree target means we have a collective, all-time carbon "budget" of about about 1,000 gigatons or 1 trillion metric tons of anthropogenic carbon and carbon equivalent emissions (man-made emissions on top of naturally occuring carbon).  To date, we've released nearly 500 gigatons [TODO: CITATION], meaning we have about 500 gt to emit over the next 34 years.  Given current emisisons and emission growth rates, we're on track to exhaust that budget within the next four to 20 years.
+A 1.5 degree target means we have a collective, all-time carbon "budget" of about about 1,000 gigatons or 1 trillion metric tons of anthropogenic carbon and carbon equivalent emissions.  [todo: show and reference warming per gigaton chart]. To date, we've released nearly 500 gigatons [TODO: CITATION], meaning we have about 500 gt to emit over the next 34 years.  Given current emisisons and emission growth rates, we're on track to exhaust that budget within the next four to 20 years.
 
 ![Historical and Projected Emission](../images/historical_and_projected_emissions.png)
 
-## Part 3: How are we going to get there?
- - We need to reduce the amount of carbon output by __X__ perecent per year
+## Part 3: How can we get there?
+Staying within our budget means __reducing the amount of new carbon we put into the atmosphere__ and __increasing the amount we take out__ as aggresively as possible.  Specifically, we need to reduce the amount of new carbon that we're putting into the atmosphere by __X__% per year for the next 34 years to get to zero net new emissions by 2050.  [todo: citation, todo: add chart with carbon growthrates and reductions] 
 
-### Options for addressing climate change
-Given that we're on track to exhuast our buget so quickly, the name of the game is doin the following as agressively as possible: __reducing the amount of new carbon we put into the atmosphere__ and __increasing the amount we take out__.  Since 2010 Bill Gates has been using the following useful formula for exploring how we can reduce emissions in the amount necessary 
+How are we going to do that?  Since 2010 Bill Gates has used the following formula to outline determinants of carbon emissions and the levers we have to address the problem:
 
-$$ CO_2 = Population * Services / person * Energy/service * CO_2/unit\ of\ service $$
+$$ \sum CO_2 = Population * Services / person * Energy/service * CO_2/unit\ of\ energy $$
 
- - population is going up
- - services per person are going up - reductions in demand
- - energy per service is going down - efficiency
- - carbon per unit of service delivered - has to go to close to zero
-  - renewables (solar and wind)
-  - nuclear
-  - carbon cature and storage
+In other words, to bring emissions down we can: reduce the number of people cosuming energy-requiring services, reduce the amount of services each person consumes, increase the energy efficiency of those services or decrease the amount of carbon it takes to generate the required energy. 
 
-Reductions in emissions will come from reducing demand for energy from cabon-based sources, which means either reducing the overall amount of energy demanded or increasing the proportion of energy non-carbon emitting sources (beyond the growth of carbon-prodcing sources).  Unfortunately, aside the periods of significant recession, global energy demand has steadily increased year-over-year and will likely continue to do so.  
+As you'd expect, barring catastrophe, population is going to rise over the next 87 years.  The United Nations estimates global population will peak somewhere around 11 billion people in the year 2100.
 
-![Historical and Projected Emission](../images/global_energy_deman.png)
+![World Population Projections](../images/world_pop.png)
 
-That said, there is significant room for efficiency improvements.  In 2012 Lawrence Livermore Labs estimated that roughly 60% of the energy generated in the United States was [wasted](https://flowcharts.llnl.gov/content/assets/images/energy/us/Energy_US_2015.png) meaning that there is significant room for reducing emissions without sacrificing economic output.  Moreover, many of the items we use every day, from applicances to airplane engines, to windows operate highly inefficiently.  Increasing the efficiency of these itmes is another way to reduce demand without reducing output.  [TOD: ADD MORE FACTS ABOUT POTENTIAL FOR EFFICIENCY GAINS]
+And all of those new people are going to want to use engergy.  [Nearly a billion people are expected to join the middle class](http://siteresources.worldbank.org/EXTABCDE/Resources/7455676-1292528456380/7626791-1303141641402/7878676-1306699356046/Parallel-Sesssion-6-Homi-Kharas.pdf) in the next 25 years, and they're expected to want the material comforts that come with that status (all of which will require energy).  There are reductions in services, especially those that the wealthiest of the global population consume, that can have a significant effect.  Plane flights and heating and cooling large homes are significant sources of C02 emissions.  As we'll see later, reducing the number of flights and living in smaller homes can mean significant reductions in personal carbon footprint. 
 
-The alternative to reductions is accelerating the shift to carbon-free energy.  One side of that shift is making carbon-based energy more expensive.  Carbon taxes or credits are the prime policy option here.  By setting an overall cap on emissions and then charging for carbon emitted beyond that level emitters are financially incentivized to reduce their overall levels.  The [European Union's Emissons Trading System](http://ec.europa.eu/clima/policies/ets/index_en.htm) is the largest example of such a system.  Though very important, such systems are difficult to implement as they reqluire all of the parties within a large geographical region (many states within a country or countries) to buy into the system for them to work, and they mean pure cost for all of the constituents within those regions, making them politically difficult to implement.  
+![Historical and Projected Energy Demand](../images/global_energy_deman.png)
 
-The other side of the shift is lowering the cost and increasing the availability of carbon-free energy.  These sources like solar, wind, biomass, geothermal, and tidal offer the benefit of providing energy without any carbon, but each has drawbacks and major hurdles to implementation.  Solar and wind challenges: generation is decoupled from demand and location, meaning we need ways of storing and transporting that energy over long distances or temporal periods.
+So if neigher population nor demand for energy are going down then were can make improvements?  Well, we can start with the third dimension: the amount of energy each of those services uses.  Here the picture is rosier.  The [automation of homes](http://spectrum.ieee.org/energywise/energy/environment/-is-energy-efficiency-the-most-popular-in-home-automation) and [vehicles](http://energy.gov/sites/prod/files/2015/11/f27/QTR2015-8A-Connected-Automated-Vehicles.pdf) holds the potential of saving through less wasteful usage, improvements energy efficiency in applicances and [lighthing](https://www.sciencedaily.com/releases/2013/10/131031090435.htm) can reduce energy usage by up to 80%, and [new techniques for constructing buildings](http://www.rmi.org/RFGraph-US_buildings_energy_saving_potential) can all reduce the amount of energy used for all of these sources.  Moreover, there's waste throughout the energy generation and industrial sectors. In 2012 Lawrence Livermore Labs estimated that roughly 60% of the energy generated in the United States was [wasted](https://flowcharts.llnl.gov/content/assets/images/energy/us/Energy_US_2015.png) meaning that there is significant room for reducing emissions without sacrificing services.
 
-Though reductions are necessary to keep us within our global budget, it's unlikely we'll be able to cut enough to curb emissions in time.  We will also need to be increasing the amout of carbon we're taking out of the atmsphere.  The first way of doing that is by stopping the ways in which we're currently reducing the natural mechanisms for taking carbon out of the air: deforestation.  Every year __X__ acres of forest are logged and clear-cut, reducing the the amount of carbon taken out of the atmosphere by __X__ tons.  
+Unfotunately, even if all of these technologies were exploited maximally, we'd only see somewhere around a 60% reduction in carbon emissions, which simply won't be enough to get us to the zero emission level we need to.  We'll also need to reduce the last factor, the amount of carbon per unit of energy.
 
-The last and possibly greatest hope for meeting our overall carbon target is the large-scale removal of carbon from the atmosphere through techincal means.  This process, ofter called geoengineering consists of filter, baloons, fans, and other traps for carbon that capture, liquify and and then store the carbon outside of the atmosphere.  That last bit is the tricky part though.  The volumes of carbon we're talking about storing are on the billions of tons. If we overshot our limit by less than amount projected under the status quo, that would mean filling up a volume the size of Lake Ontario.  Though tha's not impossible (there's a lot more of other liquids under ground) it creates a significant engineering challenge.
+Part of the shift to carbon-free energy isn't about energy generation at all, it's about economics.  Specifically, it's about making carbon-based energy more expensive.  Carbon taxes or credits are the prime policy option here.  By setting an overall cap on emissions and then charging for carbon emitted beyond that level emitters are financially incentivized to reduce their overall levels.  The [European Union's Emissons Trading System](http://ec.europa.eu/clima/policies/ets/index_en.htm) is the largest example of such a system.  Though very important, such systems are difficult to implement as they reqluire all of the parties within a large geographical region (many states within a country or countries) to buy into the system for them to work, and they mean pure cost for all of the constituents within those regions, making them politically difficult to implement.  
 
+The other part of the shift is overcoming the hurdles to the creation and adoption of carbon-free energy.  Sources like solar, wind, biomass, nuclear offer the benefit of providing energy without any carbon, but each has drawbacks and major hurdles to implementation.  For renewalbe soureces like solar and wind generation is decoupled from demand and location, meaning we need ways of storing and transporting that energy over long distances or temporal periods.  Significant advances in battery and other storage technoloy are needed to overcome these challenges.  Nuclear is a proven and implemented option, but still brings with it challenges around proliferation and waste storage.  And lastly there the possibliity of caputring, and storing the carbon we're emmitting from existing powerplants.  This approach, known as carbon capture and storage, has the benefit of not allowing us to keep most of our existing energy infrastructure.  Unfortunately how to store all the waste, whose volumes are orders of magnitude greater than any other waste source, is a major challenge. (Liqifying the balance of our carbon budget would yield a pool of carbon waste roughly 1/3 the volume of Lake Ontario) 
 
-### Who is going to make these things happen?
-How to divide up the remaining carbon (that is, how to distribute the responsibilities for redcution) is an incredibly difficult political question that raise significant issues of fairness, history, need, and ability to contributes.
-
-Developing countries have argued that division rules (and accompanying reductions) insensitive to their development needs would unduly harm their abilities to improve the lives of their citizens.  Why, they arue, should their people be deprived of basic improvements in well-being so that otherwise perfectly well-off westerners can indulge their high-consumption lifestyles?  Developed countries have for the majority of their histories developed without restriction on emissions.  Expecting developing countries to develop under harsh restrictions constitutes a double standard.  Developed countries should take responsibility for their high-carbon paths to development and take on the majority of reductions.
-
-Developed countries on the other hand cite practical considerations for adopting a "grandfathered" or "inertial" rules of division, which would use each countries current emissions as the starting point from which to make reductions.  The reductions required by an equal share or "equity" approach would be so drastic that they'd require economic and legal changes that have no chance of being adopted by the democratic governments of those countries.  They argue instead for gradual but accelerating reductions that allow of economic, political, and technological adaptations to reduction.
-
-"Top down" approaches to reduction commitments (where rules are adopted for redcutions through international agreement, as in the Kyoto Protocol) have stagnated though due to the disagreements outlined above.  No country wants to be the "sucker" that pays the cost of contributing to collective action while others "free ride" on those contributions).  More recently, as in the Paris COP, a "bottom up" approach has been taken, where individual or groups of countries make commitments that they think are fair.  The hope is that gradual individual movements will allow for an eventual convergence to global reductions adequate to meet 1.5 degrees warming overall target.
-
-With the "bottom up", approach the focus shifts from internaltional agreements on individual country quotas, to consistency about local behaviors - i.e. "if others acted in accordance with a country's proposed share of the quota, would the outcome be acceptable?"
+A final element of the above equation that Gates left off is the amount of carbon we can take out of the atmosphere.  One major source of carbon extraction is our forests.  Unfortunately, we're cutting them down at an alarming rate.  These changes, called 'land use changes' account for nearly 1 gigaton of additional C02 that would have otherwise been absorbed.
 
 
 ## Part 4: Where do I fit in?
@@ -179,17 +166,12 @@ Meeting my personal carbon quota is important, but it's not my only moral obliga
 - [Environmental Life Style Analysis](http://web.mit.edu/ebm/www/Publications/ELSA%20IEEE%202008.pdf)
 - [Wired review of MIT ELSA paper](http://www.wired.com/2008/04/mit-class-calcu/)
 - [How Climate Change is Rapidly Taking the World Apart](http://www.flassbeck-economics.com/how-climate-change-is-rapidly-taking-the-planet-apart/)
+- [Carbon Dioxide Informational Analysis Center](http://cdiac.ornl.gov/GCP/)
 
  ### Notes
   - [1ppm C02 = 7.76GtC02](https://onlineconversion.vbulletin.net/forum/main-forums/convert-and-calculate/11072-convert-gtco2-to-ppm-rise-in-atmosphere)
   - [2.08 GtonC/ppm](http://www.atmos.washington.edu/2002Q4/211/notes_humancarbon.html)
    
-
-
-
-
-
-
 
 
 
