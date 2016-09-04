@@ -53,9 +53,7 @@ A 1.5 degree target means we have a collective, all-time carbon "budget" of abou
 ![Historical and Projected Emission](../images/historical_and_projected_emissions.png)
 
 ## Part 3: How can we get there?
-To stay within our budget we have to reduce the amount of new carbon that we're putting into the atmosphere by an average of __X__% per year for the next 34 years to get to zero net new emissions by 2050.  [todo: citation, todo: add chart with carbon growthrates and reductions] 
-
-![Safe Emissions Levels](../images/safe_emissions.png)
+To stay within our budget we have to reduce the amount of new carbon that we're putting into the atmosphere by an average of __X__% per year for the next 34 years to get to zero net new emissions by 2050.  [todo: citation, todo: add chart with carbon growth rates and reductions]
 
 How are we going to do that?  Well the amount of C02 in the atmosphere roughly a function of five elements:
 
@@ -66,27 +64,32 @@ So to bring emissions down we can:
 1. reduce the number of people cosuming energy-requiring services
 2. reduce the quantity of services consumed per capita 
 3. increase the energy efficiency of those services 
-4. decrease the carbon output from generating energy energy.
+4. reduce the carbon output from generating energy energy.
 5. increase the amount of C02 we remove from the atmosphere
 
-Barring catastrophe, population is going to rise over the next 87 years to an estimated [11 billion people](http://www.un.org/en/development/desa/news/population/2015-report.html).  And all of them are going to demand engergy.  [Nearly a billion people are expected to join the middle class](http://siteresources.worldbank.org/EXTABCDE/Resources/7455676-1292528456380/7626791-1303141641402/7878676-1306699356046/Parallel-Sesssion-6-Homi-Kharas.pdf) in the next 25 years, and they're expected to demand the services that come with that income status. [todo: add some stat about consumption increases]
-
-![Historical and Projected Energy Demand](../images/global_energy_deman.png)
+Barring catastrophe, population is going to rise over the next 87 years to an estimated [11 billion people](http://www.un.org/en/development/desa/news/population/2015-report.html).  And all of them are going to demand engergy.  [Nearly a billion people are expected to join the middle class](http://siteresources.worldbank.org/EXTABCDE/Resources/7455676-1292528456380/7626791-1303141641402/7878676-1306699356046/Parallel-Sesssion-6-Homi-Kharas.pdf) in the next 25 years, and they're expected to demand the services that come with that income status, meaning the first two factors are likely going to go up. [todo: add some stat about consumption increases]
 
 (Footnote: There are reductions in services -- especially those consumed by the top of the global income distribution -- that can have a significant effect.  Plane flights and heating and cooling large homes are significant sources of C02 emissions.)
 
-If we can't rely on population or demand to fall significantly then were can make improvements?  Well, we can start with the third factor: amount of energy used per service.  Here the picture is rosier.  The [electrification and automation of the vehicle fleet](http://energy.gov/sites/prod/files/2015/11/f27/QTR2015-8A-Connected-Automated-Vehicles.pdf) (both personal and commercial) could reduce carbon emisisons __X__%  through reduction of fossil fuel usage and more efficient routing and operation. Improvements energy efficiency in applicances and [lighthing](https://www.sciencedaily.com/releases/2013/10/131031090435.htm) can reduce energy usage by up to 80%, leading to an overall __X__% reduction in carbon output per year.  And new techniques for [constructing](http://www.rmi.org/RFGraph-US_buildings_energy_saving_potential) and [automating](http://spectrum.ieee.org/energywise/energy/environment/-is-energy-efficiency-the-most-popular-in-home-automation) homes and buildings could potentially reduce the amount of energy by __X__% tons per year.  Moreover, there's waste throughout the energy generation and industrial sectors.
+If we can't rely on population or demand to fall significantly then were can make improvements?  Well, we can start with the third factor: amount of energy used per service.  Here the picture is rosier.  The [electrification and automation of the vehicle fleet](http://energy.gov/sites/prod/files/2015/11/f27/QTR2015-8A-Connected-Automated-Vehicles.pdf) (both personal and commercial) could reduce carbon emisisons __X__%  through reduction of fossil fuel usage and more efficient routing and operation. Improvements energy efficiency in applicances and [lighthing](https://www.sciencedaily.com/releases/2013/10/131031090435.htm) can reduce energy usage by up to 80%, leading to an overall __X__% reduction in carbon output per year.  And new techniques for [constructing](http://www.rmi.org/RFGraph-US_buildings_energy_saving_potential) and [automating](http://spectrum.ieee.org/energywise/energy/environment/-is-energy-efficiency-the-most-popular-in-home-automation) homes and buildings could potentially reduce the amount of energy by __X__ tons per year.
 
 Some important sources of emissions, however, are not likely to see signficant efficiency improvements.  The airline industry was responsible for [781 megatons of C02](http://www.atag.org/facts-and-figures.html) in 2015 and has set an annual target of 1.5% reduction in emissions until 2020, a relative drop in the bucket.  And in the [cement industry](http://www.climatetechwiki.org/technology/energy-saving-cement), over 50% of the greenhouse gasses emitted are a result of the chemical reactions necessary for the conversion of raw materials, putting an upper bound on efficiency improvements even if all of the energy used to generate the stuff came from zero-carbon sources.
 
-So in total, even if all of these technologies were exploited maximally, we'd only see an __Y__% reduction in carbon emissions, which isn't enough to keep us within our budget.  To do so, and to get us to zero net emissions by 2050, we'll also need to reduce the last factor, the amount of carbon per unit of energy.
+So in total, even if all of these technologies were exploited maximally and immediately, we'd only see an __Y__% reduction in carbon emissions.  This would buy us time before hitting our cap, but we'd still have positive emisisons that would continue raising temperatures indefinitely.  
 
-There are many promising options for zero-carbon energy: solar, wind, biomass, nuclear, and carbon capture.  Each, however, faces major hurdles to implementation.  For renewalbe soureces like solar and wind generation is decoupled from demand and location, meaning we need ways of storing and transporting that energy over long distances or temporal periods.  Significant advances in battery and other storage technoloy are needed to overcome these challenges.  Nuclear is a proven and implemented option, but still has challenges around proliferation and waste storage.  And lastly carbon capture would allowing us to keep most of our existing energy infrastructure.  Unfortunately how to store all the waste, whose volumes are orders of magnitude greater than any other waste source, is a major challenge. (Liqifying the balance of our carbon budget would yield a pool of carbon waste roughly 1/3 the volume of Lake Ontario) 
+![Projections with Efficiency Gains](../images/projected_emissions_efficiency.png?rev=2)
+
+To get us to and keep us at zero net emissions by 2050 we'll also need to make sure emissions shrink yearly each year which means decreasing the last the last factor, the amount of carbon per unit of energy.
+
+There are many promising options for zero-carbon energy: solar, wind, biomass, nuclear, and carbon capture.  [todo: add the potential for growth in each area]
+
+Each, however, faces major hurdles to implementation and adoption.  For renewalbe soureces like solar and wind generation is decoupled from demand and location, meaning we need ways of storing and transporting that energy over long distances or temporal periods.  Significant advances in battery and other storage technoloy are needed to overcome these challenges.  Nuclear is a proven and implemented option, but still has challenges around proliferation and waste storage.  And lastly carbon capture would allowing us to keep most of our existing energy infrastructure.  Unfortunately how to store all the waste, whose volumes are orders of magnitude greater than any other waste source, is a major challenge. (Liqifying the balance of our carbon budget would yield a pool of carbon waste roughly 1/3 the volume of Lake Ontario) 
 
 Zero-carbon solutions, even if created, will face challenges of adoption if carbon-based energy is still significantly cheaper. [todo: add why, add facts]  This is where carbon pricing comes in.  By setting an overall cap on emissions and then charging for carbon emitted beyond that level emitters are financially incentivized to reduce their overall levels and switch to renewable options.  The [European Union's Emissons Trading System](http://ec.europa.eu/clima/policies/ets/index_en.htm) is the largest example of such a system [todo: and it's had the following success].
 
+![Safe Emissions](../images/projected_emissions_safe.png?rev=2)
 
-And lastly, we can increaes the amount of carbon we're removing from the atmosphere.  The most straigthforward way of doing this is to stop rampant deforestation.  In 2016, deforestation accounted for nearly 1 gigaton of additional C02 that would have otherwise been absorbed, more than the amount the entire airline industry put into the atmosphere.
+And lastly, we can increase the amount of carbon we're removing from the atmosphere.  The most straigthforward way of doing this is to stop rampant deforestation.  In 2016, deforestation accounted for nearly 1 gigaton of additional C02 that would have otherwise been absorbed, more than the amount the entire airline industry put into the atmosphere.
 
 
 ## Part 4: Where do I fit in?
