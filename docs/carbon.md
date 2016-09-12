@@ -14,7 +14,7 @@ The concentration of atmospheric "greenhouses" gasses is a primary driver of tem
 
 ![Temperature Increase and Atmospheric Carbon](../images/temp_increase_per_ton.png?rev=2)
 
-This might not seem like very much, and in some respects it's not, but the important thing to take away is that there's a straightforward and well-understood relationship between the amount of carbon in the atmosphere and the global temperature and well-understood relationships between global temperature and critical physical systems.
+This might not seem like much, and in some respects it's not, but the important take away is that there's a straightforward and well-understood relationship between the amount of carbon in the atmosphere and the global temperature and well-understood relationships between global temperature and critical physical systems.
 
 Over geological time the amount of atmospheric carbon has fluctuated (due volcanic eruptions, the expansion and contraction of forests, and similar events), but within the last 800,000 years has stayed between about 400 and 600 gigatons. [todo: change back to ppm]
 
@@ -24,7 +24,7 @@ Over geological time the amount of atmospheric carbon has fluctuated (due volcan
 Since industrialization, however, the concentration of these gases has increased 29% over pre-industrial levels, leading to an estimated 1 degree of warming since 1880[2].  The [International Panel on Climate Change (IPCC)](http://www.ipcc.ch/), the U.N. sanctioned body for assessing the science related to climate change has confirmed that the release of greenhouse gases due to human activities is the primary driver of the recent temperature increase, with 95% certainty [CITATION].
 
 ![Historical Atospheric Carbon](../images/historical_carbon_1k.png?rev=1)
- 
+
 If carbon emissions grow at historic rates, scientists estaimate a roughly 3.6 degree temperature increase by the year 2100, which would have catestrophic implications for many communities and ecosystems throughout the world.
 
 ![Temperature Difference from Avg](../images/temp_diff_from_avg_1880.png)
@@ -35,10 +35,9 @@ If carbon emissions grow at historic rates, scientists estaimate a roughly 3.6 d
 ## Part 2: Target Emissions and Warming
 ### What goal should be set for warming and carbon emissions?
 
-If the overwhelming consensus is that 3.6 degrees is an intollerable level of warming, what level can we tolerate?  In December 2015, representatives from 196 countries met in Paris for the UN Conference on Climate Change to come to a consensus around that and offer commitments to the emissions reductions necessary to cap warming at that level (with reasonable confidence).  The agreement reached ultimately included a goal of keeping warming "well below" 2 degrees C inluded a target of 1.5 degrees of warming by 2100 with a 50% chance of success [TODO: CITATION].
+If the overwhelming consensus is that 3.6 degrees is an intollerable level of warming, what level can we tolerate?  In December 2015, representatives from 196 countries met in Paris for the UN Conference on Climate Change to come to a consensus around that and offer commitments to the emissions reductions necessary to cap warming at that level.  The agreement reached ultimately included a goal of keeping warming "well below" 2 degrees C inluded a target of 1.5 degrees of warming by 2100 with a 50% chance of success [TODO: CITATION].
 
-Why 1.5 degrees?  Above 1.5 degrees  climate impacts, like heat extremes, crop yield reductions in tropical regions, subtropical water scarcity, widespread bleaching of coral reefs, and sea-rise of up to 1 meter go from being "somewhat likely" to being "very likely".  "The additional 0.5 ◦C increase in global-mean temperature marks the difference between
-events at the upper limit of present-day natural variability and a new climate regime, particularly in tropical regions." [CITATION]
+Why 1.5 degrees?  Above 1.5 degrees  climate impacts, like heat extremes, crop yield reductions in tropical regions, subtropical water scarcity, widespread bleaching of coral reefs, and sea-rise of up to 1 meter go from being "somewhat likely" to being "very likely".  "The additional 0.5 ◦C increase in global-mean temperature marks the difference between events at the upper limit of present-day natural variability and a new climate regime, particularly in tropical regions." [CITATION]
 
 ![Target Warming](../images/temp_increase_target_only.png)
 
@@ -59,23 +58,23 @@ How are we going to do that?  Well the amount of C02 in the atmosphere roughly a
 
 $$ \sum CO_2 = (Population * Services / person * Energy/service * CO_2/unit\ of\ energy) - CO_2\ removed\ from\ the\ atmosphere $$
 
-So to bring emissions down we can: 
+So to bring emissions down we can:
 
 1. reduce the number of people cosuming energy-requiring services
-2. reduce the quantity of services consumed per capita 
-3. increase the energy efficiency of those services 
+2. reduce the quantity of services consumed per person
+3. increase the energy efficiency of those services
 4. reduce the carbon output from generating energy energy.
 5. increase the amount of C02 we remove from the atmosphere
 
-Barring catastrophe, population is going to rise over the next 87 years to an estimated [11 billion people](http://www.un.org/en/development/desa/news/population/2015-report.html).  And all of them are going to demand engergy.  [Nearly a billion people are expected to join the middle class](http://siteresources.worldbank.org/EXTABCDE/Resources/7455676-1292528456380/7626791-1303141641402/7878676-1306699356046/Parallel-Sesssion-6-Homi-Kharas.pdf) in the next 25 years, and they're expected to demand the services that come with that income status, meaning the first two factors are likely going to go up. [todo: add some stat about consumption increases]
+Barring catastrophe, population is going to rise over the next 87 years to an estimated [11 billion people](http://www.un.org/en/development/desa/news/population/2015-report.html), all of whom are going to demand engergy.  [Nearly a billion people are expected to join the middle class](http://siteresources.worldbank.org/EXTABCDE/Resources/7455676-1292528456380/7626791-1303141641402/7878676-1306699356046/Parallel-Sesssion-6-Homi-Kharas.pdf) in the next 25 years, and they're expected to demand the services that come with that income status, meaning the first two factors are likely going to go up. [todo: add some stat about consumption increases].
 
-(Footnote: There are reductions in services -- especially those consumed by the top of the global income distribution -- that can have a significant effect.  Plane flights and heating and cooling large homes are significant sources of C02 emissions.)
+There are reductions in services -- especially those consumed by the top of the global income distribution -- that can have a significant effect.  Reductions in the number of plane flights, amount of meat consumed, and housing square footage could by those making more than __X__ thousand dollars per year could reduce carbon equvilant emissions by __Y__%.
 
-If we can't rely on population or demand to fall significantly then were can make improvements?  Well, we can start with the third factor: amount of energy used per service.  Here the picture is rosier.  The [electrification and automation of the vehicle fleet](http://energy.gov/sites/prod/files/2015/11/f27/QTR2015-8A-Connected-Automated-Vehicles.pdf) (both personal and commercial) could reduce carbon emisisons __X__%  through reduction of fossil fuel usage and more efficient routing and operation. Improvements energy efficiency in applicances and [lighthing](https://www.sciencedaily.com/releases/2013/10/131031090435.htm) can reduce energy usage by up to 80%, leading to an overall __X__% reduction in carbon output per year.  And new techniques for [constructing](http://www.rmi.org/RFGraph-US_buildings_energy_saving_potential) and [automating](http://spectrum.ieee.org/energywise/energy/environment/-is-energy-efficiency-the-most-popular-in-home-automation) homes and buildings could potentially reduce the amount of energy by __X__ tons per year.
+If we can't rely on population or demand to fall significantly then were can make improvements?  Well, we can start with the third factor: amount of energy used per service.  The [electrification and automation of the vehicle fleet](http://energy.gov/sites/prod/files/2015/11/f27/QTR2015-8A-Connected-Automated-Vehicles.pdf) (both personal and commercial) could reduce carbon emisisons __X__%  through reduction of fossil fuel usage and more efficient routing and operation. Improvements energy efficiency in applicances and [lighthing](https://www.sciencedaily.com/releases/2013/10/131031090435.htm) can reduce energy usage by up to 80%, leading to an overall __X__% reduction in carbon output per year.  And new techniques for [constructing](http://www.rmi.org/RFGraph-US_buildings_energy_saving_potential) and [automating](http://spectrum.ieee.org/energywise/energy/environment/-is-energy-efficiency-the-most-popular-in-home-automation) homes and buildings could potentially reduce the amount of energy by __X__ tons per year.
 
 Some important sources of emissions, however, are not likely to see signficant efficiency improvements.  The airline industry was responsible for [781 megatons of C02](http://www.atag.org/facts-and-figures.html) in 2015 and has set an annual target of 1.5% reduction in emissions until 2020, a relative drop in the bucket.  And in the [cement industry](http://www.climatetechwiki.org/technology/energy-saving-cement), over 50% of the greenhouse gasses emitted are a result of the chemical reactions necessary for the conversion of raw materials, putting an upper bound on efficiency improvements even if all of the energy used to generate the stuff came from zero-carbon sources.
 
-So in total, even if all of these technologies were exploited maximally and immediately, we'd only see an __Y__% reduction in carbon emissions.  This would buy us time before hitting our cap, but we'd still have positive emisisons that would continue raising temperatures indefinitely.  
+So in total, even if all of these technologies were exploited maximally and immediately, we'd only see an __Y__% reduction in carbon emissions.  This would buy us time before hitting our cap, but we'd still have positive emisisons that would continue raising temperatures indefinitely.
 
 ![Projections with Efficiency Gains](../images/projected_emissions_efficiency.png?rev=2)
 
@@ -83,7 +82,7 @@ To get us to and keep us at zero net emissions by 2050 we'll also need to make s
 
 There are many promising options for zero-carbon energy: solar, wind, biomass, nuclear, and carbon capture.  [todo: add the potential for growth in each area]
 
-Each, however, faces major hurdles to implementation and adoption.  For renewalbe soureces like solar and wind generation is decoupled from demand and location, meaning we need ways of storing and transporting that energy over long distances or temporal periods.  Significant advances in battery and other storage technoloy are needed to overcome these challenges.  Nuclear is a proven and implemented option, but still has challenges around proliferation and waste storage.  And lastly carbon capture would allowing us to keep most of our existing energy infrastructure.  Unfortunately how to store all the waste, whose volumes are orders of magnitude greater than any other waste source, is a major challenge. (Liqifying the balance of our carbon budget would yield a pool of carbon waste roughly 1/3 the volume of Lake Ontario) 
+Each, however, faces major hurdles to implementation and adoption.  For renewalbe soureces like solar and wind generation is decoupled from demand and location, meaning we need ways of storing and transporting that energy over long distances or temporal periods.  Significant advances in battery and other storage technoloy are needed to overcome these challenges.  Nuclear is a proven and implemented option, but still has challenges around proliferation and waste storage.  And lastly carbon capture would allowing us to keep most of our existing energy infrastructure.  Unfortunately how to store all the waste, whose volumes are orders of magnitude greater than any other waste source, is a major challenge. (Liqifying the balance of our carbon budget would yield a pool of carbon waste roughly 1/3 the volume of Lake Ontario)
 
 Zero-carbon solutions, even if created, will face challenges of adoption if carbon-based energy is still significantly cheaper. [todo: add why, add facts]  This is where carbon pricing comes in.  By setting an overall cap on emissions and then charging for carbon emitted beyond that level emitters are financially incentivized to reduce their overall levels and switch to renewable options.  The [European Union's Emissons Trading System](http://ec.europa.eu/clima/policies/ets/index_en.htm) is the largest example of such a system [todo: and it's had the following success].
 
@@ -96,7 +95,7 @@ And lastly, we can increase the amount of carbon we're removing from the atmosph
  - Reductions and offsets (cutting back on highly emitting behaviors and offesting those you can't cut)
  - Consumption choices (incentivizing renewable and disincentivizing non)
  - Advocacy and voting (supporting lobbying efforts and voting)
- 
+
 So where do I fit in?  Well, climate change is an archetypal collective action problem, one that emerges out of the behavior of governments, yes, but also corporations (and other organizations) and also individual people as well.  What makes them so difficult is that _no_ individual actor, government, company, or individual contributes enough be responsible for the problem.  Yes, governments themselves are responsible for significant emissions, but most of the proposals for addressing climate change at that level are about the things governments are going to force those at lower levels (comapnies and people) to do.  But there doesn't seem to be anything in principle that means behavior change should only happen at the governmental level.  I don't see why I shouldn't apply the same "what would the world be like" rule to myself and my own life and behavior.  So what should my proposed personal carbon quota be, and would the world be like if others adopted that policy?
 
 
@@ -121,7 +120,7 @@ Fortunately, technologies and new institutional data sources are facilitating th
 
 ![All time cumulative transportation carbon footprint](../images/cumulative_footprint_by_year.png?rev=1)
 
-As the above chart indicates, my carbon footprint is pretty high.  For each of the two years with full data, my footprint from transportation alone exceeded 13,000 kgs of carbon, meaning I was 650% above my quota each year.  Going back to the principle of consistent behavior, if everyone in the world had a similar footprint we'd likely see closet to 6 degrees of warming, an amount that could imperil humanity itself. 
+As the above chart indicates, my carbon footprint is pretty high.  For each of the two years with full data, my footprint from transportation alone exceeded 13,000 kgs of carbon, meaning I was 650% above my quota each year.  Going back to the principle of consistent behavior, if everyone in the world had a similar footprint we'd likely see closet to 6 degrees of warming, an amount that could imperil humanity itself.
 
 ![Temperature Increase Per Ton with Targets](../images/temp_increase_with_targets.png?rev=4)
 
@@ -153,14 +152,14 @@ Another option is supporting the advocacy for national policies that would addre
 
 
 ### Aftwerward: Is this the best way for me to spend my time and money?
-Meeting my personal carbon quota is important, but it's not my only moral obligation.  Donating time and resources to other charities and causes, doing my civic dutiy in other respects, and so on have competing claims on my time and resources.  
+Meeting my personal carbon quota is important, but it's not my only moral obligation.  Donating time and resources to other charities and causes, doing my civic dutiy in other respects, and so on have competing claims on my time and resources.
 
  - [Determining the Cost-Effectiveness of Climate Change Interventions](https://www.givingwhatwecan.org/report/modelling-climate-change-cost-effectiveness/)
 
 
 ### References
 1. Schaefer, Kevin et al. "The impact of the permafrost carbon feedback on global climate." Environmental Research Letters 9.8 (2014): 085003
-2. "Chapter Climate Change 2014 Synthesis Report … - IPCC." 2015. 12 Jan. 2016 https://www.ipcc.ch/pdf/assessment-report/ar5/syr/AR5_SYR_FINAL_SPM.pdf 
+2. "Chapter Climate Change 2014 Synthesis Report … - IPCC." 2015. 12 Jan. 2016 https://www.ipcc.ch/pdf/assessment-report/ar5/syr/AR5_SYR_FINAL_SPM.pdf
 3. GISTEMP Team, 2016: GISS Surface Temperature Analysis (GISTEMP). NASA Goddard Institute for Space Studies. Dataset accessed 20YY-MM-DD at http://data.giss.nasa.gov/gistemp/.
 
 
@@ -186,7 +185,7 @@ Meeting my personal carbon quota is important, but it's not my only moral obliga
  ### Notes
   - [1ppm C02 = 7.76GtC02](https://onlineconversion.vbulletin.net/forum/main-forums/convert-and-calculate/11072-convert-gtco2-to-ppm-rise-in-atmosphere)
   - [2.08 GtonC/ppm](http://www.atmos.washington.edu/2002Q4/211/notes_humancarbon.html)
-   
+
 
 
 
