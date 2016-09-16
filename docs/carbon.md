@@ -1,4 +1,4 @@
-I## Intro
+## Intro
 I know that climate change is a serious problem.  I know that my lifestyle makes it worse.  And I know I should change those behaviors that make my carbon footprint unjustifiably high. But I don't.  Besides buying wind power once during a stint in a past apartment, I haven't done anything else meaningful to reduce my carbon liabilities.
 
 Reflecting on this made me wonder why.  Was it because the changes would be too hard or costly?  Was it because I didn't know what to change or that the change wouldn't matter?  Though I haven't figured it all out, what became clear after a bit of thinking was that even though I "know" a lot (I've read plenty of articles on the subject) I was still ignorant of basic facts relevant to changing my behavior.
@@ -14,14 +14,14 @@ The concentration of atmospheric "greenhouses" gasses is a primary driver of tem
 
 ![Temperature Increase and Atmospheric Carbon](../images/temp_increase_per_ton.png?rev=2)
 
-This might not seem like much, and in some respects it's not, but the important take away is that there's a straightforward and well-understood relationship between the amount of carbon in the atmosphere and the global temperature and well-understood relationships between global temperature and critical physical systems.
+This might not seem like much, but the important take away is that there's a straightforward and well-understood relationship between the amount of carbon in the atmosphere and the global temperature and well-understood relationships between global temperature and critical physical systems.
 
-Over geological time the amount of atmospheric carbon has fluctuated (due volcanic eruptions, the expansion and contraction of forests, and similar events), but within the last 800,000 years has stayed between about 400 and 600 gigatons. [todo: change back to ppm]
+Over geological time the amount of atmospheric carbon has fluctuated (due volcanic eruptions, the expansion and contraction of forests, and similar natural events), but within the last 800,000 years has stayed between about 400 and 600 gigatons. [todo: change back to ppm]
 
 ![Historical Atospheric Carbon](../images/historical_carbon_800k.png?rev=4)
 
 
-Since industrialization, however, the concentration of these gases has increased 29% over pre-industrial levels, leading to an estimated 1 degree of warming since 1880[2].  The [International Panel on Climate Change (IPCC)](http://www.ipcc.ch/), the U.N. sanctioned body for assessing the science related to climate change has confirmed that the release of greenhouse gases due to human activities is the primary driver of the recent temperature increase, with 95% certainty [CITATION].
+Since industrialization, however, the concentration of these gases has increased shot up, increasing 29% in the last 140 years alone, leading to an estimated 1 degree of warming since 1880[2].  The [International Panel on Climate Change (IPCC)](http://www.ipcc.ch/), the U.N. sanctioned body for assessing the science related to climate change has confirmed that the release of greenhouse gases due to human activities is the primary driver of the recent temperature increase, with 95% certainty [CITATION].
 
 ![Historical Atospheric Carbon](../images/historical_carbon_1k.png?rev=1)
 
@@ -47,18 +47,18 @@ ADD FACTS ABOUT IMPACTS OF 1.5 DEGREES
 
 [1.5 degree key facts](http://climateanalytics.org/hot-topics/1-5c-key-facts.html)
 
-A 1.5 degree target means we have a collective, all-time carbon "budget" of about about 1,000 gigatons or 1 trillion metric tons of anthropogenic carbon and carbon equivalent emissions.  [todo: show and reference warming per gigaton chart]. To date, we've released nearly 500 gigatons [TODO: CITATION], meaning we have about 500 gt to emit over the next 34 years.  Given current emisisons and emission growth rates, we're on track to exhaust that budget within the next four to 20 years.
+A 1.5 degree target means we have a collective, all-time carbon "budget" of about about 1,000 gigatons or 1 trillion metric tons of anthropogenic carbon and carbon equivalent emissions.  [todo: show and reference warming per gigaton chart]. To date, we've released about 500 gigatons [TODO: CITATION], meaning we have about 500 gt to emit over the next 34 years.  Given current emisisons and emission growth rates, we're on track to exhaust that budget within the next dayfour to 20 years.
 
 ![Historical and Projected Emission](../images/historical_and_projected_emissions.png)
 
 ## Part 3: How can we get there?
-To stay within our budget we have to reduce the amount of new carbon that we're putting into the atmosphere by an average of __X__% per year for the next 34 years to get to zero net new emissions by 2050.  [todo: citation, todo: add chart with carbon growth rates and reductions]
+To stay within our budget we have to shrink our emissions by an 2% per year (on average) for the next 34 years to get to zero net new emissions by 2050.  [todo: citation, todo: add chart with carbon growth rates and reductions]
 
-How are we going to do that?  Well the amount of C02 in the atmosphere roughly a function of five elements:
+How can we do that?  Well, atmospheric C02 is roughly a function of five elements:
 
 $$ \sum CO_2 = (Population * Services / person * Energy/service * CO_2/unit\ of\ energy) - CO_2\ removed\ from\ the\ atmosphere $$
 
-So to bring emissions down we can:
+which means we can:
 
 1. reduce the number of people cosuming energy-requiring services
 2. reduce the quantity of services consumed per person
@@ -66,17 +66,27 @@ So to bring emissions down we can:
 4. reduce the carbon output from generating energy energy.
 5. increase the amount of C02 we remove from the atmosphere
 
-Barring catastrophe, population is going to rise over the next 87 years to an estimated [11 billion people](http://www.un.org/en/development/desa/news/population/2015-report.html), all of whom are going to demand engergy.  [Nearly a billion people are expected to join the middle class](http://siteresources.worldbank.org/EXTABCDE/Resources/7455676-1292528456380/7626791-1303141641402/7878676-1306699356046/Parallel-Sesssion-6-Homi-Kharas.pdf) in the next 25 years, and they're expected to demand the services that come with that income status, meaning the first two factors are likely going to go up. [todo: add some stat about consumption increases].
+Barring catastrophe, global population is expected to grow to [11 billion people](http://www.un.org/en/development/desa/news/population/2015-report.html) by 2100.  In the next 25 years [nearly a billion are expected to join the middle class](http://siteresources.worldbank.org/EXTABCDE/Resources/7455676-1292528456380/7626791-1303141641402/7878676-1306699356046/Parallel-Sesssion-6-Homi-Kharas.pdf), and they'll want the services that come with that income status.  So in general demand for energy intensive services will grow over the next decades.
 
-There are reductions in services -- especially those consumed by the top of the global income distribution -- that can have a significant effect.  Reductions in the number of plane flights, amount of meat consumed, and housing square footage could by those making more than __X__ thousand dollars per year could reduce carbon equvilant emissions by __Y__%.
+There are reductions in services -- especially in those serivces consumed by the top of the global income distribution -- however, that can have a meaningful impact.  [The average American takes 6.8 flights per year](https://www.ustravel.org/answersheet).  Reducing that by just one flight could take 5% off that their carbon footprint.  Multi-family buildings (apartments and condos) use [50% less energy](http://buildingsdatabook.eren.doe.gov/docs/DataBooks/2011_BEDB.pdf) than single-family dwellings. Residential energy use accounts for 10% of all carbon emmissions.  If we were to become a completely urban civilization, we'd reduce emissions that much further.  And it's  estimated that [22.6kgs of C02-equivalent gasses are emitted for each 1kg of beef](http://www.unep.org/pdf/unep-geas_oct_2012.pdf).  Were we to cut out beef from our diets we'd reduce emissions by 5% (livestock accounts for nearly half of agricultural emissions which are 14% of total emissions, mostly in the form of [methane emissions from cow burps and farts](https://en.wikipedia.org/wiki/Enteric_fermentation)).
 
-If we can't rely on population or demand to fall significantly then were can make improvements?  Well, we can start with the third factor: amount of energy used per service.  The [electrification and automation of the vehicle fleet](http://energy.gov/sites/prod/files/2015/11/f27/QTR2015-8A-Connected-Automated-Vehicles.pdf) (both personal and commercial) could reduce carbon emisisons __X__%  through reduction of fossil fuel usage and more efficient routing and operation. Improvements energy efficiency in applicances and [lighthing](https://www.sciencedaily.com/releases/2013/10/131031090435.htm) can reduce energy usage by up to 80%, leading to an overall __X__% reduction in carbon output per year.  And new techniques for [constructing](http://www.rmi.org/RFGraph-US_buildings_energy_saving_potential) and [automating](http://spectrum.ieee.org/energywise/energy/environment/-is-energy-efficiency-the-most-popular-in-home-automation) homes and buildings could potentially reduce the amount of energy by __X__ tons per year.
+![Historical and Projected Emission](../images/projected_emissions_with_reductions.png)
 
-Some important sources of emissions, however, are not likely to see signficant efficiency improvements.  The airline industry was responsible for [781 megatons of C02](http://www.atag.org/facts-and-figures.html) in 2015 and has set an annual target of 1.5% reduction in emissions until 2020, a relative drop in the bucket.  And in the [cement industry](http://www.climatetechwiki.org/technology/energy-saving-cement), over 50% of the greenhouse gasses emitted are a result of the chemical reactions necessary for the conversion of raw materials, putting an upper bound on efficiency improvements even if all of the energy used to generate the stuff came from zero-carbon sources.
+Though these reductions combined would bring down the emissions rate by .5% per year (a big improvement!) they won't get us to the 2% necessry to stay within our budget. We'll need additional reductions.
+ 
+ The next lever beyond reducing energy consuming services is decreasing the amount of energy each of these services use.
+  
+ - increase vehicle transportation efficiency, through more efficient fuels, higher fuel economy standards, and [automation](http://energy.gov/sites/prod/files/2015/11/f27/QTR2015-8A-Connected-Automated-Vehicles.pdf) of the transportation fleet could yeild up to a 40% reduction in vehicle emisisons, which would reduce overall emisisons 4%. 
+ - Advances in [construction](http://www.rmi.org/RFGraph-US_buildings_energy_saving_potential) techniques, efficiency improvements in appliances and [lighting](https://www.sciencedaily.com/releases/2013/10/131031090435.htm), and [automation](http://spectrum.ieee.org/energywise/energy/environment/-is-energy-efficiency-the-most-popular-in-home-automation) of temperature control could, in total lead to a 5% reduction.
+ - Advances in manufacturing and industrial processes could yeiled another 3% reduction
 
-So in total, even if all of these technologies were exploited maximally and immediately, we'd only see an __Y__% reduction in carbon emissions.  This would buy us time before hitting our cap, but we'd still have positive emisisons that would continue raising temperatures indefinitely.
+![Projections with Efficiency Gains](../images/projected_emissions_with_efficiencies.png?rev=2)
 
-![Projections with Efficiency Gains](../images/projected_emissions_efficiency.png?rev=2)
+Combined, these efficinecy gains could yield us another .4% reduction per year in emissions. This would be another huge step, but alone would be insufficient to get us to our target.  So on to the next lever.
+
+Takind the terms somewhat out of order, the next way we can reduce the net new carbon going into the atmosphere is increase the amount that's being taken out.  The primary global system for doing this extraction is the global forests.  Unfortunately, we've been decimating them, which means they're taking out less and less carbon each year.  This change, called 'land use change' accounts for fully 18% of carbon emissions each year.  Halting that reduction and protecting and reforesting could save us a full 1% per year.
+
+![Projections with Efficiency Gains](../images/projected_emissions_with_reforestation.png?rev=2)
 
 To get us to and keep us at zero net emissions by 2050 we'll also need to make sure emissions shrink yearly each year which means decreasing the last the last factor, the amount of carbon per unit of energy.
 
@@ -181,6 +191,8 @@ Meeting my personal carbon quota is important, but it's not my only moral obliga
 - [How Climate Change is Rapidly Taking the World Apart](http://www.flassbeck-economics.com/how-climate-change-is-rapidly-taking-the-planet-apart/)
 - [Carbon Dioxide Informational Analysis Center](http://cdiac.ornl.gov/GCP/)
 - [McKinsey US energy savings: opportunities and challenges](http://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/us-energy-savings-opportunities-and-challenges)
+- [Airline carbon footpring](http://www.atag.org/facts-and-figures.html)
+- [World greenhouse emissions by sector](http://www.grida.no/graphicslib/detail/world-greenhouse-gas-emissions-by-sector_6658#)
 
  ### Notes
   - [1ppm C02 = 7.76GtC02](https://onlineconversion.vbulletin.net/forum/main-forums/convert-and-calculate/11072-convert-gtco2-to-ppm-rise-in-atmosphere)
