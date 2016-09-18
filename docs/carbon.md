@@ -52,49 +52,43 @@ A 1.5 degree target means we have a collective, all-time carbon "budget" of abou
 ![Historical and Projected Emission](../images/historical_and_projected_emissions.png)
 
 ## Part 3: How can we get there?
-To stay within our budget we have to shrink our emissions by an 2% per year (on average) for the next 34 years to get to zero net new emissions by 2050.  [todo: citation, todo: add chart with carbon growth rates and reductions]
+To stay within our budget we have to shrink our emissions by an 2% per year (on average) for the next 34 years to get to zero net new emissions by 2050.  [todo: citation, todo: add chart with carbon growth rates and reductions].  We have roughly four general ways of making these reductions
 
-How can we do that?  Well, atmospheric C02 is roughly a function of five elements:
+1. reduce consumption of energy-demanding services
+2. increase energy efficiency of those services
+3. reduce the carbon output from generating energy
+4. increase the amount of C02 we remove from the atmosphere
 
-$$ \sum CO_2 = (Population * Services / person * Energy/service * CO_2/unit\ of\ energy) - CO_2\ removed\ from\ the\ atmosphere $$
+Barring catastrophe, global population is expected to grow to [11 billion people](http://www.un.org/en/development/desa/news/population/2015-report.html) by 2100.  In the next 25 years [nearly a billion are expected to join the middle class](http://siteresources.worldbank.org/EXTABCDE/Resources/7455676-1292528456380/7626791-1303141641402/7878676-1306699356046/Parallel-Sesssion-6-Homi-Kharas.pdf), and they'll want the services that come with that status.  So in general demand for energy intensive services will grow over the next decades.
 
-which means we can:
-
-1. reduce the number of people cosuming energy-requiring services
-2. reduce the quantity of services consumed per person
-3. increase the energy efficiency of those services
-4. reduce the carbon output from generating energy energy.
-5. increase the amount of C02 we remove from the atmosphere
-
-Barring catastrophe, global population is expected to grow to [11 billion people](http://www.un.org/en/development/desa/news/population/2015-report.html) by 2100.  In the next 25 years [nearly a billion are expected to join the middle class](http://siteresources.worldbank.org/EXTABCDE/Resources/7455676-1292528456380/7626791-1303141641402/7878676-1306699356046/Parallel-Sesssion-6-Homi-Kharas.pdf), and they'll want the services that come with that income status.  So in general demand for energy intensive services will grow over the next decades.
-
-There are reductions in services -- especially in those serivces consumed by the top of the global income distribution -- however, that can have a meaningful impact.  [The average American takes 6.8 flights per year](https://www.ustravel.org/answersheet).  Reducing that by just one flight could take 5% off that their carbon footprint.  Multi-family buildings (apartments and condos) use [50% less energy](http://buildingsdatabook.eren.doe.gov/docs/DataBooks/2011_BEDB.pdf) than single-family dwellings. Residential energy use accounts for 10% of all carbon emmissions.  If we were to become a completely urban civilization, we'd reduce emissions that much further.  And it's  estimated that [22.6kgs of C02-equivalent gasses are emitted for each 1kg of beef](http://www.unep.org/pdf/unep-geas_oct_2012.pdf).  Were we to cut out beef from our diets we'd reduce emissions by 5% (livestock accounts for nearly half of agricultural emissions which are 14% of total emissions, mostly in the form of [methane emissions from cow burps and farts](https://en.wikipedia.org/wiki/Enteric_fermentation)).
+There are reductions in services -- especially in those serivces consumed by the top of the global income distribution -- however, that can have a meaningful impact.  [The average American takes 6.8 flights per year](https://www.ustravel.org/answersheet).  Reducing that by just one flight could take 5% off that their carbon footprint.  Multi-family dwellings (apartments and condos) use [50% less energy](http://buildingsdatabook.eren.doe.gov/docs/DataBooks/2011_BEDB.pdf) than single-family. Residential energy use accounts for 10% of all carbon emmissions.  If we were to become a completely urban civilization, we'd reduce emissions that much further.  And it's  estimated that [22.6kgs of C02-equivalent gasses are emitted for each 1kg of beef](http://www.unep.org/pdf/unep-geas_oct_2012.pdf).  Were we to cut out beef from our diets we'd reduce emissions by 5% (livestock accounts for nearly half of agricultural emissions which are 14% of total emissions, mostly in the form of [methane emissions from cow digestion](https://en.wikipedia.org/wiki/Enteric_fermentation)).
 
 ![Historical and Projected Emission](../images/projected_emissions_with_reductions.png)
 
-Though these reductions combined would bring down the emissions rate by .5% per year (a big improvement!) they won't get us to the 2% necessry to stay within our budget. We'll need additional reductions.
+Though these reductions combined would bring down the emissions rate by .5% per year (a big improvement!) they alone won't get us to the 2% necessary to stay within our budget.
  
- The next lever beyond reducing energy consuming services is decreasing the amount of energy each of these services use.
+Beyond consuming less we can also make the services we consume more energy efficient.
   
  - increase vehicle transportation efficiency, through more efficient fuels, higher fuel economy standards, and [automation](http://energy.gov/sites/prod/files/2015/11/f27/QTR2015-8A-Connected-Automated-Vehicles.pdf) of the transportation fleet could yeild up to a 40% reduction in vehicle emisisons, which would reduce overall emisisons 4%. 
  - Advances in [construction](http://www.rmi.org/RFGraph-US_buildings_energy_saving_potential) techniques, efficiency improvements in appliances and [lighting](https://www.sciencedaily.com/releases/2013/10/131031090435.htm), and [automation](http://spectrum.ieee.org/energywise/energy/environment/-is-energy-efficiency-the-most-popular-in-home-automation) of temperature control could, in total lead to a 5% reduction.
- - Advances in manufacturing and industrial processes could yeiled another 3% reduction
+ - Advances in manufacturing and industrial processes could yield another 3% reduction
 
 ![Projections with Efficiency Gains](../images/projected_emissions_with_efficiencies.png?rev=2)
 
-Combined, these efficinecy gains could yield us another .4% reduction per year in emissions. This would be another huge step, but alone would be insufficient to get us to our target.  So on to the next lever.
+Combined, these efficinecy gains would yield another .4% annual reduction. This again would be a huge, but insufficient step.  We'll also need to reduce the amount of carbon used to generate the energy for these services.
+
+This is the realm of zero carbon energy: solar, wind, biomass, nuclear, and carbon capture.  [todo: add the potential for growth in each area].  A recent [UBS analysis](http://reneweconomy.com.au/2015/ubs-analysts-solar-will-become-the-default-technology-of-the-future-19986) indicates that solar could account for nearly 50% of electricity production by 2050, and [according to the IAEA](http://www.renewableenergyworld.com/articles/2015/02/wind-energy-outlook-2015-could-total-installed-wind-capacity-reach-2000-gw-by-2030.html) wind could account for nearly 30%.  Added 
+
+
+Each, however, faces major hurdles to implementation and adoption.  Wind and solar are intermittent sources, meaning power generation is decoupled from demand and location.  We'll need new ways of storing and transporting that energy over long distances or temporal periods to see the gains.  Significant advances in battery and other storage technoloy are needed to overcome these challenges.  Nuclear is a proven and implemented option, but still faces issues with proliferation concerns and waste storage.  And lastly carbon capture would allowing us to keep most of our existing energy infrastructure.  Unfortunately how to store all the waste, whose volumes are orders of magnitude greater than any other waste source, is a major challenge. (Liqifying the balance of our carbon budget would yield a pool of carbon waste roughly 1/3 the volume of Lake Ontario).  
+
+Zero-carbon solutions, even if created, will face challenges of adoption if carbon-based energy is still significantly cheaper. [todo: add why, add facts]  This is where carbon pricing comes in.  By setting an overall cap on emissions and then charging for carbon emitted beyond that level emitters are financially incentivized to reduce their overall levels and switch to renewable options.
+
 
 Takind the terms somewhat out of order, the next way we can reduce the net new carbon going into the atmosphere is increase the amount that's being taken out.  The primary global system for doing this extraction is the global forests.  Unfortunately, we've been decimating them, which means they're taking out less and less carbon each year.  This change, called 'land use change' accounts for fully 18% of carbon emissions each year.  Halting that reduction and protecting and reforesting could save us a full 1% per year.
 
 ![Projections with Efficiency Gains](../images/projected_emissions_with_reforestation.png?rev=2)
 
-To get us to and keep us at zero net emissions by 2050 we'll also need to make sure emissions shrink yearly each year which means decreasing the last the last factor, the amount of carbon per unit of energy.
-
-There are many promising options for zero-carbon energy: solar, wind, biomass, nuclear, and carbon capture.  [todo: add the potential for growth in each area]
-
-Each, however, faces major hurdles to implementation and adoption.  For renewalbe soureces like solar and wind generation is decoupled from demand and location, meaning we need ways of storing and transporting that energy over long distances or temporal periods.  Significant advances in battery and other storage technoloy are needed to overcome these challenges.  Nuclear is a proven and implemented option, but still has challenges around proliferation and waste storage.  And lastly carbon capture would allowing us to keep most of our existing energy infrastructure.  Unfortunately how to store all the waste, whose volumes are orders of magnitude greater than any other waste source, is a major challenge. (Liqifying the balance of our carbon budget would yield a pool of carbon waste roughly 1/3 the volume of Lake Ontario)
-
-Zero-carbon solutions, even if created, will face challenges of adoption if carbon-based energy is still significantly cheaper. [todo: add why, add facts]  This is where carbon pricing comes in.  By setting an overall cap on emissions and then charging for carbon emitted beyond that level emitters are financially incentivized to reduce their overall levels and switch to renewable options.  The [European Union's Emissons Trading System](http://ec.europa.eu/clima/policies/ets/index_en.htm) is the largest example of such a system [todo: and it's had the following success].
 
 ![Safe Emissions](../images/projected_emissions_safe.png?rev=2)
 
@@ -202,6 +196,7 @@ Meeting my personal carbon quota is important, but it's not my only moral obliga
 - [Greenhouse gas emissions by sector](http://www.grida.no/graphicslib/detail/world-greenhouse-gas-emissions-by-sector_6658#)
 - [Global emissions by sector](https://www.epa.gov/ghgemissions/global-greenhouse-gas-emissions-data#Sector)
 - [Buildings Energy Data Book](http://buildingsdatabook.eren.doe.gov/docs/DataBooks/2011_BEDB.pdf)
+- [UBS Solar Report](http://reneweconomy.com.au/2015/ubs-analysts-solar-will-become-the-default-technology-of-the-future-19986)
 
 ### Notes
   - [1ppm C02 = 7.76GtC02](https://onlineconversion.vbulletin.net/forum/main-forums/convert-and-calculate/11072-convert-gtco2-to-ppm-rise-in-atmosphere)
