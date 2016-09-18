@@ -21,7 +21,7 @@ Over geological time the amount of atmospheric carbon has fluctuated (due volcan
 ![Historical Atospheric Carbon](../images/historical_carbon_800k.png?rev=4)
 
 
-Since industrialization, however, the concentration of these gases has increased shot up, increasing 29% in the last 140 years alone, leading to an estimated 1 degree of warming since 1880[2].  The [International Panel on Climate Change (IPCC)](http://www.ipcc.ch/), the U.N. sanctioned body for assessing the science related to climate change has confirmed that the release of greenhouse gases due to human activities is the primary driver of the recent temperature increase, with 95% certainty [CITATION].
+Since industrialization, however, the concentration of these gases has shot up, increasing 29% in the last 140 years alone, leading to an estimated 1 degree of warming since 1880[2].  The [International Panel on Climate Change (IPCC)](http://www.ipcc.ch/), the U.N. sanctioned body for assessing the science related to climate change has confirmed that the release of greenhouse gases due to human activities is the primary driver of the recent temperature increase, with 95% certainty [CITATION].
 
 ![Historical Atospheric Carbon](../images/historical_carbon_1k.png?rev=1)
 
@@ -193,8 +193,17 @@ Meeting my personal carbon quota is important, but it's not my only moral obliga
 - [McKinsey US energy savings: opportunities and challenges](http://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/us-energy-savings-opportunities-and-challenges)
 - [Airline carbon footpring](http://www.atag.org/facts-and-figures.html)
 - [World greenhouse emissions by sector](http://www.grida.no/graphicslib/detail/world-greenhouse-gas-emissions-by-sector_6658#)
+- [US Energy Savings: Opportunities and challenges](http://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/us-energy-savings-opportunities-and-challenges)
+- [US Travel answer sheet](https://www.ustravel.org/answersheet)
+- [Green house gas emmissions from meat production](http://www.unep.org/pdf/unep-geas_oct_2012.pdf)
+- [World beef and cattle statistics](http://beef2live.com/story-world-beef-cattle-statistics-0-108033)
+- [World greenhouse gas emissions by sector](http://www.grida.no/graphicslib/detail/world-greenhouse-gas-emissions-by-sector_6658#)
+- [Effects of carbon tax on the economy and the environment](https://www.cbo.gov/sites/default/files/113th-congress-2013-2014/reports/Carbon_One-Column.pdf)
+- [Greenhouse gas emissions by sector](http://www.grida.no/graphicslib/detail/world-greenhouse-gas-emissions-by-sector_6658#)
+- [Global emissions by sector](https://www.epa.gov/ghgemissions/global-greenhouse-gas-emissions-data#Sector)
+- [Buildings Energy Data Book](http://buildingsdatabook.eren.doe.gov/docs/DataBooks/2011_BEDB.pdf)
 
- ### Notes
+### Notes
   - [1ppm C02 = 7.76GtC02](https://onlineconversion.vbulletin.net/forum/main-forums/convert-and-calculate/11072-convert-gtco2-to-ppm-rise-in-atmosphere)
   - [2.08 GtonC/ppm](http://www.atmos.washington.edu/2002Q4/211/notes_humancarbon.html)
 
