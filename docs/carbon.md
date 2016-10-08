@@ -29,13 +29,13 @@ If carbon emissions grow at historic rates, scientists estaimate a roughly 3.6 d
 
 ![Temperature Difference from Avg](../images/temp_diff_from_avg_1880.png)
 
-  The IPCC estimates, for example, that such a level of warming would lead to (among many other things): extinction of up to or exceeding 40% of the worlds plant and animal species, widespread coral mortality, significant shifts in species' range, hundreds of millions of people exposed to increased water stress, a doubling in frequency of the strongest Atlantic cyclones, loss of about 30% of global coastal wetland, millions exposed to coastal flooding, significant increase in insect-born diseases due to expanded ranges, widespread crop failure, a 50% increase in extreme drought in the US and Souther Asia, a 20% rise in the likelihood of potentially lethal daytime tmperatures in the United States and China, as well as the risk of significant future increases in temperature due to the release of hundreds of gigatons of carbon and carbon equivalents currently stored in permafrost throughout Siberia and the poles [CITATION].
+  Among (many) other things, the IPCC estimates that such a level of warming would lead to: extinction of up to or exceeding 40% of the worlds plant and animal species, widespread coral mortality, significant shifts in species' range, hundreds of millions of people exposed to increased water stress, a doubling in frequency of the strongest Atlantic cyclones, loss of about 30% of global coastal wetland, millions exposed to coastal flooding, significant increase in insect-born diseases due to expanded ranges, widespread crop failure, a 50% increase in extreme drought in the US and Southern Asia, a 20% rise in the likelihood of potentially lethal daytime tmperatures in the United States and China, as well as the risk of significant future increases in temperature due to the release of hundreds of gigatons of carbon and carbon equivalents currently stored in permafrost throughout Siberia and the poles [CITATION].
 
 
 ## Part 2: Target Emissions and Warming
 ### What goal should be set for warming and carbon emissions?
 
-If the overwhelming consensus is that 3.6 degrees is an intollerable level of warming, what level can we tolerate?  In December 2015, representatives from 196 countries met in Paris for the UN Conference on Climate Change to come to a consensus around that and offer commitments to the emissions reductions necessary to cap warming at that level.  The agreement reached ultimately included a goal of keeping warming "well below" 2 degrees C inluded a target of 1.5 degrees of warming by 2100 with a 50% chance of success [TODO: CITATION].
+If the consensus is that 3.6 degrees is an intollerable level of warming, what level can we tolerate?  In December 2015, representatives from 196 countries met in Paris for the UN Conference on Climate Change to come to consensus on that level offer commitments to the emissions reductions necessary to cap warming at that level.  The agreement reached ultimately included a goal of keeping warming "well below" 2 degrees C inluded a target of 1.5 degrees of warming by 2100 with a 50% chance of success [TODO: CITATION].
 
 Why 1.5 degrees?  Above 1.5 degrees  climate impacts, like heat extremes, crop yield reductions in tropical regions, subtropical water scarcity, widespread bleaching of coral reefs, and sea-rise of up to 1 meter go from being "somewhat likely" to being "very likely".  "The additional 0.5 ◦C increase in global-mean temperature marks the difference between events at the upper limit of present-day natural variability and a new climate regime, particularly in tropical regions." [CITATION]
 
@@ -52,16 +52,16 @@ A 1.5 degree target means we have a collective, all-time carbon "budget" of abou
 ![Historical and Projected Emission](../images/historical_and_projected_emissions.png)
 
 ## Part 3: How can we get there?
-To stay within our budget we have to shrink our emissions by an 2% per year (on average) for the next 34 years to get to zero net new emissions by 2050.  [todo: citation, todo: add chart with carbon growth rates and reductions].  We have roughly four general ways of making these reductions
+To stay within our budget we have to shrink our emissions by an 2% per year (on average) for the next 34 years to get to zero net new emissions by 2050.  [todo: citation, todo: add chart with carbon growth rates and reductions].  We have roughly four options for making these reductions:
 
 1. reduce consumption of energy-demanding services
 2. increase energy efficiency of those services
-3. reduce the carbon output from generating energy
+3. reduce the carbon output from generating energy for those services
 4. increase the amount of C02 we remove from the atmosphere
 
 Barring catastrophe, global population is expected to grow to [11 billion people](http://www.un.org/en/development/desa/news/population/2015-report.html) by 2100.  In the next 25 years [nearly a billion are expected to join the middle class](http://siteresources.worldbank.org/EXTABCDE/Resources/7455676-1292528456380/7626791-1303141641402/7878676-1306699356046/Parallel-Sesssion-6-Homi-Kharas.pdf), and they'll want the services that come with that status.  So in general demand for energy intensive services will grow over the next decades.
 
-There are reductions in services -- especially in those serivces consumed by the top of the global income distribution -- however, that can have a meaningful impact.  [The average American takes 6.8 flights per year](https://www.ustravel.org/answersheet).  Reducing that by just one flight could take 5% off that their carbon footprint.  Multi-family dwellings (apartments and condos) use [50% less energy](http://buildingsdatabook.eren.doe.gov/docs/DataBooks/2011_BEDB.pdf) than single-family. Residential energy use accounts for 10% of all carbon emmissions.  If we were to become a completely urban civilization, we'd reduce emissions that much further.  And it's  estimated that [22.6kgs of C02-equivalent gasses are emitted for each 1kg of beef](http://www.unep.org/pdf/unep-geas_oct_2012.pdf).  Were we to cut out beef from our diets we'd reduce emissions by 5% (livestock accounts for nearly half of agricultural emissions which are 14% of total emissions, mostly in the form of [methane emissions from cow digestion](https://en.wikipedia.org/wiki/Enteric_fermentation)).
+There are reductions in services -- especially in those serivces consumed by the top of the global income distribution -- however, that can have a meaningful impact.  [The average American takes 6.8 flights per year](https://www.ustravel.org/answersheet).  Reducing that by just **one** flight could take 5% off that his or her carbon footprint.  Apartments and condos use [50% less energy](http://buildingsdatabook.eren.doe.gov/docs/DataBooks/2011_BEDB.pdf) than single-family homes. Residential energy use accounts for 10% of all carbon emmissions.  If we were to become a completely urban civilization, we'd reduce emissions that much further.  And it's  estimated that [22.6kgs of C02-equivalent gasses are emitted for each 1kg of beef](http://www.unep.org/pdf/unep-geas_oct_2012.pdf).  Were we to cut out beef from our diets we'd reduce emissions by 5% (livestock accounts for nearly half of agricultural emissions which are 14% of total emissions, mostly in the form of [methane emissions from cow digestion](https://en.wikipedia.org/wiki/Enteric_fermentation)).
 
 ![Historical and Projected Emission](../images/projected_emissions_with_reductions.png)
 
@@ -75,25 +75,19 @@ Beyond consuming less we can also make the services we consume more energy effic
 
 ![Projections with Efficiency Gains](../images/projected_emissions_with_efficiencies.png?rev=2)
 
-Combined, these efficinecy gains would yield another .4% annual reduction. This again would be a huge, but insufficient step.  We'll also need to reduce the amount of carbon used to generate the energy for these services.
+Combined, these efficinecy gains would yield another .4% annual reduction. This would be another huge, but insufficient step.  We'll also need to reduce the amount of carbon emitted generating the energy for these services.
 
-This is the realm of zero carbon energy: solar, wind, biomass, nuclear, and carbon capture.  [todo: add the potential for growth in each area].  A recent [UBS analysis](http://reneweconomy.com.au/2015/ubs-analysts-solar-will-become-the-default-technology-of-the-future-19986) indicates that solar could account for nearly 50% of electricity production by 2050, and [according to the IAEA](http://www.renewableenergyworld.com/articles/2015/02/wind-energy-outlook-2015-could-total-installed-wind-capacity-reach-2000-gw-by-2030.html) wind could account for nearly 30%.  Added 
+Which brings us to zero carbon energy sources: solar, wind, biomass, nuclear, and carbon capture and sequestration.  [todo: add the potential for growth in each area].  A recent [UBS analysis](http://reneweconomy.com.au/2015/ubs-analysts-solar-will-become-the-default-technology-of-the-future-19986) indicates that solar could account for nearly 50% of electricity production by 2050, and [according to the IAEA](http://www.renewableenergyworld.com/articles/2015/02/wind-energy-outlook-2015-could-total-installed-wind-capacity-reach-2000-gw-by-2030.html) wind could account for nearly 30%.  Nuclear energy currently [accounts for nearly 11%](http://www.nei.org/Knowledge-Center/Nuclear-Statistics/World-Statistics) of global electricity production and that could [increase to 20% by 2050](https://www.oecd-nea.org/ndd/reports/2010/nea6962-nuclear-roadmap.pdf).
 
+Deploying these technologies to their potential would do the most towards getting us to our goal, yielding a nearly 1.5% annual reduction in emissions.  Unfortunately, even with this full suite we'd still be on track to exceded 1.5 degrees, and the slope of our cumulative carbon curve would still be positive (though it would be deceleratig and would eventually move to zero around 2 degrees C).
 
-Each, however, faces major hurdles to implementation and adoption.  Wind and solar are intermittent sources, meaning power generation is decoupled from demand and location.  We'll need new ways of storing and transporting that energy over long distances or temporal periods to see the gains.  Significant advances in battery and other storage technoloy are needed to overcome these challenges.  Nuclear is a proven and implemented option, but still faces issues with proliferation concerns and waste storage.  And lastly carbon capture would allowing us to keep most of our existing energy infrastructure.  Unfortunately how to store all the waste, whose volumes are orders of magnitude greater than any other waste source, is a major challenge. (Liqifying the balance of our carbon budget would yield a pool of carbon waste roughly 1/3 the volume of Lake Ontario).  
+![Footprint With Miracle](../images/projected_emissions_with_miracle.png)
 
-Zero-carbon solutions, even if created, will face challenges of adoption if carbon-based energy is still significantly cheaper. [todo: add why, add facts]  This is where carbon pricing comes in.  By setting an overall cap on emissions and then charging for carbon emitted beyond that level emitters are financially incentivized to reduce their overall levels and switch to renewable options.
+Finally, to stay within our carbon budget we can also increase the amount of carbon we're removing from the atmosphere.  The primary global system for doing this extraction is the global forests.  Unfortunately, we've been decimating them, which means they're taking out less and less carbon each year.  This change, called 'land use change' accounts for fully 18% of carbon emissions each year.  Halting that reduction and protecting and reforesting could save us a full 1% per year.  That, combined with the other reductions would put us at just about 1 trillion tons emitted by the end of the century, with zero net additional emissions.
 
+![Projections with Efficiency Gains](../images/projected_emissions_with_reforestation.png?rev=3)
 
-Takind the terms somewhat out of order, the next way we can reduce the net new carbon going into the atmosphere is increase the amount that's being taken out.  The primary global system for doing this extraction is the global forests.  Unfortunately, we've been decimating them, which means they're taking out less and less carbon each year.  This change, called 'land use change' accounts for fully 18% of carbon emissions each year.  Halting that reduction and protecting and reforesting could save us a full 1% per year.
-
-![Projections with Efficiency Gains](../images/projected_emissions_with_reforestation.png?rev=2)
-
-
-![Safe Emissions](../images/projected_emissions_safe.png?rev=2)
-
-And lastly, we can increase the amount of carbon we're removing from the atmosphere.  The most straigthforward way of doing this is to stop rampant deforestation.  In 2016, deforestation accounted for nearly 1 gigaton of additional C02 that would have otherwise been absorbed, more than the amount the entire airline industry put into the atmosphere.
-
+In summary, to stay within our carbon budget we need to: reduce our home sizes, air travel, and meat consumption; agressively push efficiency in transportation, buildings, and manufacturing; create and deploy a viable a zero carbon "enery miracle"; and aressively reduce deforestation.  We need to do this as agressively as we can, and we need to start now.
 
 ## Part 4: Where do I fit in?
  - Reductions and offsets (cutting back on highly emitting behaviors and offesting those you can't cut)
@@ -202,6 +196,11 @@ Meeting my personal carbon quota is important, but it's not my only moral obliga
   - [1ppm C02 = 7.76GtC02](https://onlineconversion.vbulletin.net/forum/main-forums/convert-and-calculate/11072-convert-gtco2-to-ppm-rise-in-atmosphere)
   - [2.08 GtonC/ppm](http://www.atmos.washington.edu/2002Q4/211/notes_humancarbon.html)
 
+
+### Jetsam / Use for other stuff
+Each, however, faces major hurdles to implementation and adoption.  Wind and solar are intermittent sources, meaning power generation is decoupled from demand and location.  We'll need new ways of storing and transporting that energy over long distances or temporal periods to see the gains.  Significant advances in battery and other storage technoloy are needed to overcome these challenges.  Nuclear is a proven and implemented option, but still faces issues with proliferation concerns and waste storage.  And lastly carbon capture would allowing us to keep most of our existing energy infrastructure.  Unfortunately how to store all the waste, whose volumes are orders of magnitude greater than any other waste source, is a major challenge. (Liqifying the balance of our carbon budget would yield a pool of carbon waste roughly 1/3 the volume of Lake Ontario).
+
+Zero-carbon solutions, even if created, will face challenges of adoption if carbon-based energy is still significantly cheaper. [todo: add why, add facts]  This is where carbon pricing comes in.  By setting an overall cap on emissions and then charging for carbon emitted beyond that level emitters are financially incentivized to reduce their overall levels and switch to renewable options.
 
 
 
