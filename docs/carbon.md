@@ -191,6 +191,9 @@ Meeting my personal carbon quota is important, but it's not my only moral obliga
 - [Global emissions by sector](https://www.epa.gov/ghgemissions/global-greenhouse-gas-emissions-data#Sector)
 - [Buildings Energy Data Book](http://buildingsdatabook.eren.doe.gov/docs/DataBooks/2011_BEDB.pdf)
 - [UBS Solar Report](http://reneweconomy.com.au/2015/ubs-analysts-solar-will-become-the-default-technology-of-the-future-19986)
+- [Nuclear Energy Association Technology Report](https://www.oecd-nea.org/ndd/reports/2010/nea6962-nuclear-roadmap.pdf)
+- [Nuclear Energy Institute Technology World Statistics](http://www.nei.org/Knowledge-Center/Nuclear-Statistics/World-Statistics)
+- [Trends in Global C02 Emissions 2013 Report](http://edgar.jrc.ec.europa.eu/news_docs/pbl-2013-trends-in-global-co2-emissions-2013-report-1148.pdf)
 
 ### Notes
   - [1ppm C02 = 7.76GtC02](https://onlineconversion.vbulletin.net/forum/main-forums/convert-and-calculate/11072-convert-gtco2-to-ppm-rise-in-atmosphere)
