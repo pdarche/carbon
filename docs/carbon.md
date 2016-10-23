@@ -47,19 +47,19 @@ ADD FACTS ABOUT IMPACTS OF 1.5 DEGREES
 
 [1.5 degree key facts](http://climateanalytics.org/hot-topics/1-5c-key-facts.html)
 
-A 1.5 degree target means we have a collective, all-time carbon "budget" of about about 1,000 gigatons or 1 trillion metric tons of anthropogenic carbon and carbon equivalent emissions.  [todo: show and reference warming per gigaton chart]. To date, we've released about 500 gigatons [TODO: CITATION], meaning we have about 500 gt to emit over the next 34 years.  Given current emisisons and emission growth rates, we're on track to exhaust that budget within the next dayfour to 20 years.
+A 1.5 degree target means we have a collective, all-time carbon "budget" of about about 1,000 gigatons or 1 trillion metric tons of anthropogenic carbon and carbon equivalent emissions.  [todo: show and reference warming per gigaton chart]. To date, we've released about 500 gigatons [TODO: CITATION], meaning we have about 500 gt to emit over the next 34 years.  Given current emisisons and emission growth rates, we're on track to exhaust that budget within the next four to 20 years.
 
 ![Historical and Projected Emission](../images/historical_and_projected_emissions.png)
 
 ## Part 3: How can we get there?
-To stay within our budget we have to shrink our emissions by an 2% per year (on average) for the next 34 years to get to zero net new emissions by 2050.  [todo: citation, todo: add chart with carbon growth rates and reductions].  We have roughly four options for making these reductions:
+To stay within our budget we have to shrink our emissions by an 2% per year (on average) for the next 34 years to get to zero net new emissions by 2050.  [todo: citation].  We have roughly four options for doing this:
 
-1. reduce consumption of energy-demanding services
-2. increase energy efficiency of those services
-3. reduce the carbon output from generating energy for those services
-4. increase the amount of C02 we remove from the atmosphere
+1. reduce demand for energy
+2. increase energy efficiency
+3. reduce carbon output per unit of energy
+4. increase the amount of C02 removed from the atmosphere
 
-Barring catastrophe, global population is expected to grow to [11 billion people](http://www.un.org/en/development/desa/news/population/2015-report.html) by 2100.  In the next 25 years [nearly a billion are expected to join the middle class](http://siteresources.worldbank.org/EXTABCDE/Resources/7455676-1292528456380/7626791-1303141641402/7878676-1306699356046/Parallel-Sesssion-6-Homi-Kharas.pdf), and they'll want the services that come with that status.  So in general demand for energy intensive services will grow over the next decades.
+Barring catastrophe, global population is expected to grow to [11 billion people](http://www.un.org/en/development/desa/news/population/2015-report.html) by 2100.  In the next 25 years [nearly a billion are expected to join the middle class](http://siteresources.worldbank.org/EXTABCDE/Resources/7455676-1292528456380/7626791-1303141641402/7878676-1306699356046/Parallel-Sesssion-6-Homi-Kharas.pdf), and they'll want the services that come with that status.  So in general demand for energy will grow over the next decades.
 
 There are reductions in services -- especially in those serivces consumed by the top of the global income distribution -- however, that can have a meaningful impact.  [The average American takes 6.8 flights per year](https://www.ustravel.org/answersheet).  Reducing that by just **one** flight could take 5% off that his or her carbon footprint.  Apartments and condos use [50% less energy](http://buildingsdatabook.eren.doe.gov/docs/DataBooks/2011_BEDB.pdf) than single-family homes. Residential energy use accounts for 10% of all carbon emmissions.  If we were to become a completely urban civilization, we'd reduce emissions that much further.  And it's  estimated that [22.6kgs of C02-equivalent gasses are emitted for each 1kg of beef](http://www.unep.org/pdf/unep-geas_oct_2012.pdf).  Were we to cut out beef from our diets we'd reduce emissions by 5% (livestock accounts for nearly half of agricultural emissions which are 14% of total emissions, mostly in the form of [methane emissions from cow digestion](https://en.wikipedia.org/wiki/Enteric_fermentation)).
 
@@ -83,19 +83,40 @@ Deploying these technologies to their potential would do the most towards gettin
 
 ![Footprint With Miracle](../images/projected_emissions_with_miracle.png)
 
-Finally, to stay within our carbon budget we can also increase the amount of carbon we're removing from the atmosphere.  The primary global system for doing this extraction is the global forests.  Unfortunately, we've been decimating them, which means they're taking out less and less carbon each year.  This change, called 'land use change' accounts for fully 18% of carbon emissions each year.  Halting that reduction and protecting and reforesting could save us a full 1% per year.  That, combined with the other reductions would put us at just about 1 trillion tons emitted by the end of the century, with zero net additional emissions.
+Finally, to stay within our carbon budget we can also increase the amount of carbon we're removing from the atmosphere.  The primary global system for doing this extraction is the global forests.  Unfortunately, we're decimating them, which means they're taking out less and less carbon each year.  This change, called 'land use change' accounts for fully 18% of carbon emissions each year.  Halting that reduction and protecting and reforesting could save us a full 1% per year.  That, combined with the other reductions would put us at just about 1 trillion tons emitted by the end of the century, with zero net additional emissions.
 
 ![Projections with Efficiency Gains](../images/projected_emissions_with_reforestation.png?rev=3)
 
-In summary, to stay within our carbon budget we need to: reduce our home sizes, air travel, and meat consumption; agressively push efficiency in transportation, buildings, and manufacturing; create and deploy a viable a zero carbon "enery miracle"; and aressively reduce deforestation.  We need to do this as agressively as we can, and we need to start now.
+In summary, to stay within our carbon budget we need to: reduce our home sizes, air travel, and meat consumption; agressively push efficiency in transportation, buildings, and manufacturing; create and deploy a viable a zero carbon "enery miracle"; and agressively reduce deforestation.  We need to do this as quickly as we can, and we need to start now.
 
 ## Part 4: Where do I fit in?
  - Reductions and offsets (cutting back on highly emitting behaviors and offesting those you can't cut)
  - Consumption choices (incentivizing renewable and disincentivizing non)
- - Advocacy and voting (supporting lobbying efforts and voting)
+ - Support political solutions to the systemic parts of the problem (supporting lobbying efforts and voting)
+ - Encourage friends and family to take action
 
 So where do I fit in?  Well, climate change is an archetypal collective action problem, one that emerges out of the behavior of governments, yes, but also corporations (and other organizations) and also individual people as well.  What makes them so difficult is that _no_ individual actor, government, company, or individual contributes enough be responsible for the problem.  Yes, governments themselves are responsible for significant emissions, but most of the proposals for addressing climate change at that level are about the things governments are going to force those at lower levels (comapnies and people) to do.  But there doesn't seem to be anything in principle that means behavior change should only happen at the governmental level.  I don't see why I shouldn't apply the same "what would the world be like" rule to myself and my own life and behavior.  So what should my proposed personal carbon quota be, and would the world be like if others adopted that policy?
 
+
+### Reductions and Offsets
+ - Reducing flights
+ - Carbon offsets
+ 
+### Consumption Choices
+ - Renewable / low carbon consumption
+  - wind power
+ - Move to a city (live in an apartment)
+ - Take public transportation
+ - Cut out beef from your diet
+ 
+### Advocacy and voting
+ - [Citizen's Climate Lobby](https://citizensclimatelobby.org/)
+ - [Carbon Standards for New, Modified and Reconstructed Powerplants](https://www.epa.gov/cleanpowerplan/carbon-pollution-standards-new-modified-and-reconstructed-power-plants)
+ - [Clean Power Plan](https://www.epa.gov/cleanpowerplan)
+ - [Bernie Sanders Climate Protection and Justice Act](http://www.carbontax.org/bills/)
+ - [John Delaney's Tax Polution, Not Profits Bill](http://delaney.house.gov/news/press-releases/delaney-introduces-legislation-to-reduce-carbon-pollution-reduce-taxes-and-boost)
+ - [Regional Green House Gas Initiative](https://en.wikipedia.org/wiki/Regional_Greenhouse_Gas_Initiative)
+ - [EU Emissions Trading System](http://ec.europa.eu/clima/policies/ets/index_en.htm)
 
 ### What should my carbon quota be?
 The primary arguments against equity focus on the practical impediments to adopting steep reductions and on the burdens they would impose on the countries with the highest current emmissions.  Compelling as those arguments might be from an international treaty-making perspctive, they doesn't address the _truth_ of the proposition that we're each only entitled to an equal share of global carbon quota.  It may be the case that the difference between my personal quota and current lifestyle would require reductions that are (even very) difficult, but unlike a large democratic country, I'm a well-off individual with significant abilities to change lifestyle and adapt (regardless of how unpleasant those changes might be).
@@ -116,7 +137,7 @@ Where am I currently in relation to that roughly 2000kg per year goal?  What is 
 
 Fortunately, technologies and new institutional data sources are facilitating the tracking of quotidian behaviors and new models are being used to compute the carbon footprints of these behaviors. Below are charts that use [Moves](https://www.moves-app.com/) and [Con Edision Green Button](http://www.greenbuttondata.org/) energy data along with carbon calcualtions from the [Brighter Planet API](http://impact.brighterplanet.com/documentation) to compute my personal carbon footprint for transportation and housing over the last two years.
 
-![All time cumulative transportation carbon footprint](../images/cumulative_footprint_by_year.png?rev=1)
+![All time cumulative transportation carbon footprint](../images/cumulative_footprint_by_year.png?rev=2)
 
 As the above chart indicates, my carbon footprint is pretty high.  For each of the two years with full data, my footprint from transportation alone exceeded 13,000 kgs of carbon, meaning I was 650% above my quota each year.  Going back to the principle of consistent behavior, if everyone in the world had a similar footprint we'd likely see closet to 6 degrees of warming, an amount that could imperil humanity itself.
 
@@ -124,11 +145,11 @@ As the above chart indicates, my carbon footprint is pretty high.  For each of t
 
 
 ### What can I do to get within my quota?
-So what can I do to reduce my footprint and get within the amount I'm entitled to?  The natural place is to reduce the amount of carbon I'm responsible for through behavior and lifestyle changes.  A big start would be reducing the number of flights I take per year.  Plane flights dominate all other modes of transportation and for me are responsible for 10 times as much carbon as the next highest mode, cars.
+So what can I do to reduce my footprint?  Going back to the reductions listed above, I already live in a city, don't eat beef, and take public transportation for nearly all my travel.  Given that, A big start would be reducing the number of flights I take per year.  Plane flights dominate all other modes of transportation and for me are responsible for 10 times as much carbon as the next highest mode, cars.
 
-![Footprint Without Flights](../images/cumulative_footprint_by_year_wo_flights.png?rev=5)
+![Footprint Without Flights](../images/cumulative_footprint_by_year_wo_flights.png?rev=4)
 
-I average about 8 [CHECK THIS NUMBER] flights a year, and with each flight's carbon averaging my entire quota, that's going to be hard for me to elminate.  That said, even marginal reductions would have a signficant impact on my behavior
+I average about 8 [CHECK THIS NUMBER] flights a year, and with each flight's carbon averaging my entire quota, that's going to be hard for me to elminate.  That said, even marginal reductions would have a signficant impact on my behavior.
 
 [TODO: LIST OUT OTHER BEHAVIORAL OPTIONS, LIKE CHANGING PURCHASING BEHAVIOR | TODO: ADD INFORMATION ABOUT GOV'T QUOTA]
 
