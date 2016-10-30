@@ -10,7 +10,7 @@ First, a bit of background to motivate things.
 
 [Global atmospheric temperature affects _many_ physical systems critical to human (and animal and enviornmental) well-being](https://www.ipcc.ch/pdf/assessment-report/ar4/wg2/ar4_wg2_full_report.pdf).  This includes: levels and melting rates of snow, ice, and frozen ground, affecting not only sea levels but also glacial runoff, ocean salinity, and habitat for many species; terrestrial biological systems such as the timing of spring related events (leaf unfolding, animal migration), the size and location of plant and animal habitat; marine and freshwater biological systems, like the ranges and volumes of algal, plankton and fish abundance, ranges and migration times of fish and other species; precipitation levels, storm formation and intensity, drought and desertification, flooding, plant productivity, forest fires, dry season length and many more. [todo: citations and links]
 
-The concentration of atmospheric "greenhouses" gasses is a primary driver of temperature change.  These gasses (primarily carbon dioxide, but also methane, nitrous oxide, and ozone, and others) trap energy from the sun that would otherwise be radiated back into space as infrared light, warming the air and raising atmospheric temperature (when talking about warming, scientists use average air temperature at surface level, which is what I'll use from here on).  Scientists studing this relationship estimate that every 1,000 kilograms, or metric ton, of CO2 leads to an approximately 0.0000000000015 degree increase in temperature [TODO: CITATION].
+The concentration of atmospheric "greenhouses" gasses is a primary driver of temperature change.  These gasses (primarily carbon dioxide, but also methane, nitrous oxide, and ozone, and others) trap energy from the sun that would otherwise be radiated back into space as infrared light, warming the air and raising atmospheric temperature (average air temperature at surface level, specifically).  Scientists studing this relationship estimate that every 1,000 kilograms, or metric ton, of CO2 leads to an approximately 0.0000000000015 degree increase in temperature [TODO: CITATION].
 
 ![Temperature Increase and Atmospheric Carbon](../images/temp_increase_per_ton.png?rev=2)
 
@@ -28,6 +28,8 @@ Since industrialization, however, the concentration of these gases has shot up, 
 If carbon emissions grow at historic rates, scientists estaimate a roughly 3.6 degree temperature increase by the year 2100, which would have catestrophic implications for many communities and ecosystems throughout the world.
 
 ![Temperature Difference from Avg](../images/temp_diff_from_avg_1880.png)
+
+[todo: extrapolate trend to 2100]
 
   Among (many) other things, the IPCC estimates that such a level of warming would lead to: extinction of up to or exceeding 40% of the worlds plant and animal species, widespread coral mortality, significant shifts in species' range, hundreds of millions of people exposed to increased water stress, a doubling in frequency of the strongest Atlantic cyclones, loss of about 30% of global coastal wetland, millions exposed to coastal flooding, significant increase in insect-born diseases due to expanded ranges, widespread crop failure, a 50% increase in extreme drought in the US and Southern Asia, a 20% rise in the likelihood of potentially lethal daytime tmperatures in the United States and China, as well as the risk of significant future increases in temperature due to the release of hundreds of gigatons of carbon and carbon equivalents currently stored in permafrost throughout Siberia and the poles [CITATION].
 
@@ -77,32 +79,41 @@ Beyond consuming less we can also make the services we consume more energy effic
 
 Combined, these efficinecy gains would yield another .4% annual reduction. This would be another huge, but insufficient step.  We'll also need to reduce the amount of carbon emitted generating the energy for these services.
 
-Which brings us to zero carbon energy sources: solar, wind, biomass, nuclear, and carbon capture and sequestration.  [todo: add the potential for growth in each area].  A recent [UBS analysis](http://reneweconomy.com.au/2015/ubs-analysts-solar-will-become-the-default-technology-of-the-future-19986) indicates that solar could account for nearly 50% of electricity production by 2050, and [according to the IAEA](http://www.renewableenergyworld.com/articles/2015/02/wind-energy-outlook-2015-could-total-installed-wind-capacity-reach-2000-gw-by-2030.html) wind could account for nearly 30%.  Nuclear energy currently [accounts for nearly 11%](http://www.nei.org/Knowledge-Center/Nuclear-Statistics/World-Statistics) of global electricity production and that could [increase to 20% by 2050](https://www.oecd-nea.org/ndd/reports/2010/nea6962-nuclear-roadmap.pdf).
+Which brings us to zero carbon energy sources: solar, wind, biomass, nuclear, and carbon capture.  [todo: add the potential for growth in each area].  A recent [UBS analysis](http://reneweconomy.com.au/2015/ubs-analysts-solar-will-become-the-default-technology-of-the-future-19986) indicates that solar could account for nearly 50% of electricity production by 2050, and [according to the IAEA](http://www.renewableenergyworld.com/articles/2015/02/wind-energy-outlook-2015-could-total-installed-wind-capacity-reach-2000-gw-by-2030.html) wind could account for nearly 30%.  Nuclear energy currently [accounts for nearly 11%](http://www.nei.org/Knowledge-Center/Nuclear-Statistics/World-Statistics) of global electricity production and that could [increase to 20% by 2050](https://www.oecd-nea.org/ndd/reports/2010/nea6962-nuclear-roadmap.pdf).
 
-Deploying these technologies to their potential would do the most towards getting us to our goal, yielding a nearly 1.5% annual reduction in emissions.  Unfortunately, even with this full suite we'd still be on track to exceded 1.5 degrees, and the slope of our cumulative carbon curve would still be positive (though it would be deceleratig and would eventually move to zero around 2 degrees C).
+Deploying these technologies to their potential would do the most towards getting us to our goal, yielding a nearly 1.5% annual reduction in emissions.  Unfortunately, even with this full suite we'd still be on track to exceded 1.5 degrees, and we'd still be growing our emissions (though less quickly and eventually leveling off around 2 degrees C).
 
 ![Footprint With Miracle](../images/projected_emissions_with_miracle.png)
 
-Finally, to stay within our carbon budget we can also increase the amount of carbon we're removing from the atmosphere.  The primary global system for doing this extraction is the global forests.  Unfortunately, we're decimating them, which means they're taking out less and less carbon each year.  This change, called 'land use change' accounts for fully 18% of carbon emissions each year.  Halting that reduction and protecting and reforesting could save us a full 1% per year.  That, combined with the other reductions would put us at just about 1 trillion tons emitted by the end of the century, with zero net additional emissions.
+To get us "well below 2 degrees" and stay within our carbon budget we'll also need to increase the amount of carbon we're removing from the atmosphere.  The primary global system for doing this extraction is the global forests.  Unfortunately, we're decimating them, which means they're taking out less and less carbon each year.  This change, called 'land use change' accounts for fully 18% of carbon emissions each year.  Halting that reduction and protecting and reforesting could save us a full 1% per year.  That, combined with the other reductions would put us at just about 1 trillion tons emitted by the end of the century, with zero net additional emissions.
 
 ![Projections with Efficiency Gains](../images/projected_emissions_with_reforestation.png?rev=3)
 
 In summary, to stay within our carbon budget we need to: reduce our home sizes, air travel, and meat consumption; agressively push efficiency in transportation, buildings, and manufacturing; create and deploy a viable a zero carbon "enery miracle"; and agressively reduce deforestation.  We need to do this as quickly as we can, and we need to start now.
 
 ## Part 4: Where do I fit in?
- - Reductions and offsets (cutting back on highly emitting behaviors and offesting those you can't cut)
- - Consumption choices (incentivizing renewable and disincentivizing non)
- - Support political solutions to the systemic parts of the problem (supporting lobbying efforts and voting)
- - Encourage friends and family to take action
+So where do I fit in?  What makes addressing climate change so challenging is that _no_ single actor (no person, company, or even country) is single-handedly responsible for the problem or can single-handedly fix it.  The solution will only come from lots of different people supporting a range of actions that will collective get us to where we need to be.  So what are those actions and specifically, what are the actions that I as a individual can take?
 
-So where do I fit in?  Well, climate change is an archetypal collective action problem, one that emerges out of the behavior of governments, yes, but also corporations (and other organizations) and also individual people as well.  What makes them so difficult is that _no_ individual actor, government, company, or individual contributes enough be responsible for the problem.  Yes, governments themselves are responsible for significant emissions, but most of the proposals for addressing climate change at that level are about the things governments are going to force those at lower levels (comapnies and people) to do.  But there doesn't seem to be anything in principle that means behavior change should only happen at the governmental level.  I don't see why I shouldn't apply the same "what would the world be like" rule to myself and my own life and behavior.  So what should my proposed personal carbon quota be, and would the world be like if others adopted that policy?
+To eliminate some alternatives, I'm not going to become a politician, or energy entreprenuer, or full-time climate activist.  Climate change solutions will only happen if people choose those paths, but I'm not going to be one of those people.  So what should I do?  Well, in short I can support the above-mentioned people, reduce my own carbon footrpint, and try to get others like me to do the same.
+
+As an individual, the majority of my carbon responsibility comes from my consumption choices.  As mentioned above, cutting demand for carbon-intensive goods and services isn't likely to have much effect on climate change overall, but coud do so if people at the top of the income distribution cut out high-carbon goods and services from their lives.  That's means me.  So what should I change and how much should I try to reduce my footprint?  Well, I already don't eat beef, live in a small aparment in New York, and don't own a car.  I do however fly a good amount (I've averaged 12 flights per year over the last three years).  After gathering data around my carbon footprint from different modes of transportation, transporation, home electricity usage, and my share of the US government's carbon responsibility we can see my cumulative carbon footprint over the last three years I could see that my footprint from these sources alone averaged nearly 15,000 kilograms per year.
+
+![All time cumulative carbon footprint](../images/cumulative_footprint_by_year.png?rev=2)
+
+You may have guessed that the times where my footprint took big steps up are flights.  If I were to hypothetically remove them, my carbon footprint would drop significantly, by 87%, in fact.  Put another way, flying two times less per year on average would reduce 120% of all other non-flight carbon sources (carbon from driving, home electricity, etc.) combined.
+
+![Footprint Without Flights](../images/cumulative_footprint_by_year_wo_flights.png?rev=4)
+
+That would be a big reduction, but my footprint would still be pretty large.  (So large in fact, that if the rest of humanity had the same footprint we'd see roughly 6 degrees of warming -- the global per-capita footprint is about 5 tons.)  Even if I were to fly only once per year I'd have an unjustifiably high footprint.  So to compensate I need to offset my carbon in other ways.
 
 
 ### Reductions and Offsets
+ - Reductions and offsets (cutting back on highly emitting behaviors and offesting those you can't cut)
  - Reducing flights
  - Carbon offsets
- 
+
 ### Consumption Choices
+ - Consumption choices (incentivizing renewable and disincentivizing non)
  - Renewable / low carbon consumption
   - wind power
  - Move to a city (live in an apartment)
@@ -110,6 +121,7 @@ So where do I fit in?  Well, climate change is an archetypal collective action p
  - Cut out beef from your diet
  
 ### Advocacy and voting
+ - Support political solutions to the systemic parts of the problem (supporting lobbying efforts and voting)
  - [Citizen's Climate Lobby](https://citizensclimatelobby.org/)
  - [Carbon Standards for New, Modified and Reconstructed Powerplants](https://www.epa.gov/cleanpowerplan/carbon-pollution-standards-new-modified-and-reconstructed-power-plants)
  - [Clean Power Plan](https://www.epa.gov/cleanpowerplan)
@@ -117,6 +129,10 @@ So where do I fit in?  Well, climate change is an archetypal collective action p
  - [John Delaney's Tax Polution, Not Profits Bill](http://delaney.house.gov/news/press-releases/delaney-introduces-legislation-to-reduce-carbon-pollution-reduce-taxes-and-boost)
  - [Regional Green House Gas Initiative](https://en.wikipedia.org/wiki/Regional_Greenhouse_Gas_Initiative)
  - [EU Emissions Trading System](http://ec.europa.eu/clima/policies/ets/index_en.htm)
+
+### Encouraging Others to do the same
+ - Encourage others to do the same
+
 
 ### What should my carbon quota be?
 The primary arguments against equity focus on the practical impediments to adopting steep reductions and on the burdens they would impose on the countries with the highest current emmissions.  Compelling as those arguments might be from an international treaty-making perspctive, they doesn't address the _truth_ of the proposition that we're each only entitled to an equal share of global carbon quota.  It may be the case that the difference between my personal quota and current lifestyle would require reductions that are (even very) difficult, but unlike a large democratic country, I'm a well-off individual with significant abilities to change lifestyle and adapt (regardless of how unpleasant those changes might be).
@@ -128,7 +144,7 @@ Dividing the quota up over the next 36 years, and then dividing that by the proj
 [TODO: DETAIL SOME OTHER DIVISION RULES BESIDES EQUITY]
 
 ### Where am I in relation to that quota?
-Where am I currently in relation to that roughly 2000kg per year goal?  What is my current carbon responsibility?  Unfortunately, computing an accurate personal carbon footprint is difficult and burdensome.  The areas of one's life and activities that generate carbon liabilities are numerous, diverse, and difficult to track.  Generally, they're bucketed into four categories:
+Where am I currently in relation to that roughly 2000kg per year goal?  What is my current carbon responsibility? I Unfortunately, computing an accurate personal carbon footprint is difficult and burdensome.  The areas of one's life and activities that generate carbon liabilities are numerous, diverse, and difficult to track.  Generally, they're bucketed into four categories:
 
  1. Transportation-related carbon, including plane trips, car trips, use of public transportation
  2. Housing-related carbon, from heating, cooling, & electricity
@@ -137,7 +153,7 @@ Where am I currently in relation to that roughly 2000kg per year goal?  What is 
 
 Fortunately, technologies and new institutional data sources are facilitating the tracking of quotidian behaviors and new models are being used to compute the carbon footprints of these behaviors. Below are charts that use [Moves](https://www.moves-app.com/) and [Con Edision Green Button](http://www.greenbuttondata.org/) energy data along with carbon calcualtions from the [Brighter Planet API](http://impact.brighterplanet.com/documentation) to compute my personal carbon footprint for transportation and housing over the last two years.
 
-![All time cumulative transportation carbon footprint](../images/cumulative_footprint_by_year.png?rev=2)
+![All time cumulative carbon footprint](../images/cumulative_footprint_by_year.png?rev=2)
 
 As the above chart indicates, my carbon footprint is pretty high.  For each of the two years with full data, my footprint from transportation alone exceeded 13,000 kgs of carbon, meaning I was 650% above my quota each year.  Going back to the principle of consistent behavior, if everyone in the world had a similar footprint we'd likely see closet to 6 degrees of warming, an amount that could imperil humanity itself.
 
